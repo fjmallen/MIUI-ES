@@ -126,14 +126,14 @@
   </string-array>
   <string-array name="lock_after_timeout_entries">
     <item>Immediately</item>
-    <item>5 seconds</item>
-    <item>15 seconds</item>
-    <item>30 seconds</item>
-    <item>1 minute</item>
-    <item>2 minutes</item>
-    <item>5 minutes</item>
-    <item>10 minutes</item>
-    <item>30 minutes</item>
+    <item>5 segundos</item>
+    <item>15 segundos</item>
+    <item>30 segundos</item>
+    <item>1 minutos</item>
+    <item>2 minutos</item>
+    <item>5 minutos</item>
+    <item>10 minutos</item>
+    <item>30 minutos</item>
   </string-array>
   <string-array name="lock_after_timeout_values">
     <item>0</item>
@@ -147,10 +147,10 @@
     <item>1800000</item>
   </string-array>
   <string-array name="entries_font_size">
-    <item>Small</item>
+    <item>Pequeña</item>
     <item>Normal</item>
-    <item>Large</item>
-    <item>Huge</item>
+    <item>Grande</item>
+    <item>Enorme</item>
   </string-array>
   <string-array name="entryvalues_font_size">
     <item>0.85</item>
@@ -202,31 +202,31 @@
   </string-array>
   <string-array name="wifi_status">
     <item />
-    <item>Scanning…</item>
-    <item>Connecting…</item>
-    <item>Authenticating…</item>
-    <item>Obtaining IP address…</item>
-    <item>Connected</item>
-    <item>Suspended</item>
-    <item>Disconnecting…</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>Escaneando…</item>
+    <item>Conectando…</item>
+    <item>Autentificando…</item>
+    <item>Obteniendo dirección IP…</item>
+    <item>Conectado</item>
+    <item>Suspendido</item>
+    <item>Desconectando…</item>
+    <item>Desconectado</item>
+    <item>Sin exíto</item>
+    <item>Bloqueado</item>
+    <item>Evitar temporalmente mala conexión</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item />
-    <item>Scanning…</item>
-    <item>Connecting to %1$s…</item>
-    <item>Authenticating with %1$s…</item>
-    <item>Obtaining IP address from %1$s…</item>
-    <item>Connected to %1$s</item>
-    <item>Suspended</item>
-    <item>Disconnecting from %1$s…</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>Escaneando…</item>
+    <item>Conectando con %1$s…</item>
+    <item>Autenticando con %1$s…</item>
+    <item>Obtenidendo dirección IP de %1$s…</item>
+    <item>Conectado a %1$s</item>
+    <item>Suspendido</item>
+    <item>Desconectando de %1$s…</item>
+    <item>Desconectado</item>
+    <item>Sin exíto</item>
+    <item>Bloqueado</item>
+    <item>Evitar temporalmente mala conexión</item>
   </string-array>
   <string-array name="wifi_security">
     <item>Abierta</item>
@@ -253,16 +253,16 @@
     <item>PWD</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
-    <item>Push button</item>
-    <item>PIN from peer device</item>
-    <item>PIN from this device</item>
+    <item>Presione el botón</item>
+    <item>PIN desde el dispositivo por pares</item>
+    <item>PIN desde este dispositivo</item>
   </string-array>
   <string-array name="wifi_p2p_status">
-    <item>Connected</item>
-    <item>Invited</item>
-    <item>Unsuccessful</item>
-    <item>Available</item>
-    <item>Out-of-range</item>
+    <item>Conectado</item>
+    <item>Invitado</item>
+    <item>Sin exíto</item>
+    <item>Disponible</item>
+    <item>Fuera de rango</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 Minutos</item>
@@ -282,9 +282,9 @@
     <item>Nunca</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
-    <item>Always</item>
-    <item>Only when plugged in</item>
-    <item>Never</item>
+    <item>Siempre</item>
+    <item>Sólo cuando está enchufado</item>
+    <item>Nunca</item>
   </string-array>
   <string-array name="wifi_sleep_policy_values">
     <item>2</item>
@@ -293,8 +293,8 @@
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>Auto</item>
-    <item>5 GHz only</item>
-    <item>2.4 GHz only</item>
+    <item>Solo 5 GHz</item>
+    <item>Solo 2.4 GHz</item>
   </string-array>
   <string-array name="wifi_frequency_band_values">
     <item>0</item>
@@ -321,10 +321,10 @@
   </string-array>
   <string-array name="wifi_ip_settings">
     <item>DHCP</item>
-    <item>Static</item>
+    <item>Estático</item>
   </string-array>
   <string-array name="wifi_proxy_settings">
-    <item>None</item>
+    <item>Ninguno</item>
     <item>Manual</item>
   </string-array>
   <string-array name="emergency_tone_entries">
@@ -346,7 +346,7 @@
     <item>Chino (tradicional)</item>
   </string-array>
   <string-array name="apn_auth_entries">
-    <item>None</item>
+    <item>Ninguno</item>
     <item>PAP</item>
     <item>CHAP</item>
     <item>PAP or CHAP</item>
@@ -370,7 +370,7 @@
   <string-array name="bearer_entries">
     <item>LTE</item>
     <item>eHRPD</item>
-    <item>Unspecified</item>
+    <item>Sin especificar</item>
   </string-array>
   <string-array name="bearer_values">
     <item>14</item>
@@ -383,14 +383,14 @@
     <item>Deje que el sistema decida</item>
   </string-array>
   <string-array name="app_install_location_values">
-    <item>device</item>
-    <item>sdcard</item>
+    <item>dispositivo</item>
+    <item>tarjeta sd</item>
     <item>auto</item>
   </string-array>
   <string-array name="long_press_timeout_selector_titles">
-    <item>Short</item>
-    <item>Medium</item>
-    <item>Long</item>
+    <item>Corto</item>
+    <item>Medio</item>
+    <item>Largo</item>
   </string-array>
   <string-array name="long_press_timeout_selector_values">
     <item>500</item>
@@ -398,28 +398,28 @@
     <item>1500</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Never check</item>
-    <item>Check for DRM content only</item>
-    <item>Always check</item>
+    <item>Nunca comprobar</item>
+    <item>Comprobar solo contenido DRM</item>
+    <item>Siempre comprobar</item>
   </string-array>
   <string-array name="hdcp_checking_values">
-    <item>never</item>
-    <item>drm-only</item>
-    <item>always</item>
+    <item>nunca</item>
+    <item>solo-DRM</item>
+    <item>siempre</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
-    <item>Never use HDCP checking</item>
-    <item>Use HDCP checking for DRM content only</item>
-    <item>Always use HDCP checking</item>
+    <item>Nunca utilizar comprobación HDCP</item>
+    <item>Usar comprobación HDCP solo para contenido DRM</item>
+    <item>Siempre usar comprobación HDCP</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Animación apagada</item>
+    <item>Animación escala .5x</item>
+    <item>Animación escala 1x</item>
+    <item>Animación escala 1.5x</item>
+    <item>Animación escala 2x</item>
+    <item>Animación escala 5x</item>
+    <item>Animación escala 10x</item>
   </string-array>
   <string-array name="window_animation_scale_values">
     <item>0</item>
@@ -431,13 +431,13 @@
     <item>10</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Animación apagada</item>
+    <item>Animación escala .5x</item>
+    <item>Animación escala 1x</item>
+    <item>Animación escala 1.5x</item>
+    <item>Animación escala 2x</item>
+    <item>Animación escala 5x</item>
+    <item>Animación escala 10x</item>
   </string-array>
   <string-array name="transition_animation_scale_values">
     <item>0</item>
@@ -449,13 +449,13 @@
     <item>10</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Animación apagada</item>
+    <item>Animación escala .5x</item>
+    <item>Animación escala 1x</item>
+    <item>Animación escala 1.5x</item>
+    <item>Animación escala 2x</item>
+    <item>Animación escala 5x</item>
+    <item>Animación escala 10x</item>
   </string-array>
   <string-array name="animator_duration_scale_values">
     <item>0</item>
@@ -467,7 +467,7 @@
     <item>10</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
-    <item>None</item>
+    <item>Ninguna</item>
     <item>720x480 mdpi</item>
     <item>1280x720 tvdpi</item>
     <item>1920x1080 xhdpi</item>
@@ -481,7 +481,7 @@
     <item>1280x720/213;1920x1080/320</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
-    <item>None</item>
+    <item>Ninguna</item>
     <item>Logcat</item>
     <item>Systrace (Graphics)</item>
     <item>Call stack on glGetError</item>
@@ -493,12 +493,12 @@
     <item>error</item>
   </string-array>
   <string-array name="app_process_limit_entries">
-    <item>Standard limit</item>
-    <item>No background processes</item>
-    <item>At most 1 process</item>
-    <item>At most 2 processes</item>
-    <item>At most 3 processes</item>
-    <item>At most 4 processes</item>
+    <item>Limite estandar</item>
+    <item>No hay procesos en segundo plano</item>
+    <item>Como mucho 1 proceso</item>
+    <item>Como mucho 2 procesos</item>
+    <item>Como mucho 3 procesos</item>
+    <item>Como mucho 4 procesos</item>
   </string-array>
   <string-array name="app_process_limit_values">
     <item>-1</item>
@@ -518,26 +518,26 @@
   </string-array>
   <string-array name="vpn_types_long">
     <item>PPTP VPN</item>
-    <item>L2TP/IPSec VPN with pre-shared keys</item>
-    <item>L2TP/IPSec VPN with certificates</item>
-    <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-    <item>IPSec VPN with certificates and Xauth authentication</item>
-    <item>IPSec VPN with certificates and hybrid authentication</item>
+    <item>L2TP/IPSec VPN con claves pre-compartidas</item>
+    <item>L2TP/IPSec VPN con los certificados</item>
+    <item>IPSec VPN con claves pre-compartidas y autenticación Xauth</item>
+    <item>IPSec VPN con los certificados y la autenticación Xauth</item>
+    <item>IPSec VPN con los certificados y la autenticación híbrida</item>
   </string-array>
   <string-array name="vpn_states">
-    <item>Disconnected</item>
-    <item>Initializing…</item>
-    <item>Connecting…</item>
-    <item>Connected</item>
-    <item>Timeout</item>
-    <item>Unsuccessful</item>
+    <item>Desconectado</item>
+    <item>Inicializando…</item>
+    <item>Conectando…</item>
+    <item>Conectado</item>
+    <item>Tiempo de espera</item>
+    <item>Sin exíto</item>
   </string-array>
   <string-array name="user_content_ratings_entries">
     <item>Ascended being</item>
-    <item>Human</item>
+    <item>Humano</item>
     <item>Neanderthal</item>
-    <item>Chimp</item>
-    <item>Monkey</item>
+    <item>Chimpance</item>
+    <item>Mono</item>
   </string-array>
   <string-array name="user_content_ratings_values">
     <item>5</item>
@@ -547,9 +547,9 @@
     <item>1</item>
   </string-array>
   <string-array name="security_settings_premium_sms_values">
-    <item>Ask</item>
-    <item>Never allow</item>
-    <item>Always allow</item>
+    <item>Preguntar</item>
+    <item>Nunca permitir</item>
+    <item>Siempre permitir</item>
   </string-array>
   <string-array name="input_method_selector_titles">
     <item>@string/input_method_selector_show_automatically_title</item>
@@ -572,9 +572,9 @@
     <item>0</item>
   </string-array>
   <string-array name="media_feedback_level_entries">
-    <item>Strong</item>
-    <item>Medium</item>
-    <item>Light</item>
+    <item>Fuerte</item>
+    <item>Medio</item>
+    <item>Débil</item>
   </string-array>
   <string-array name="media_feedback_level_values">
     <item>15</item>
@@ -592,9 +592,9 @@
     <item>2</item>
   </string-array>
   <string-array name="usb_connection_mode_entries">
-    <item>Ask upon connection</item>
-    <item>Charge only</item>
-    <item>Mount SD card</item>
+    <item>Preguntar al conectar</item>
+    <item>Sólo carga/item>
+    <item>Montar tarjeta SD</item>
   </string-array>
   <string-array name="usb_connection_mode_values">
     <item>0</item>
@@ -622,25 +622,25 @@
     <item>9000</item>
   </string-array>
   <string-array name="led_color_values">
-    <item>blue</item>
-    <item>red</item>
-    <item>green</item>
+    <item>azul</item>
+    <item>rojo</item>
+    <item>verde</item>
   </string-array>
   <string-array name="mi1_led_color_values">
-    <item>blue</item>
-    <item>red</item>
-    <item>green</item>
+    <item>azul</item>
+    <item>rojo</item>
+    <item>verde</item>
     <item>\#FFFF0033</item>
     <item>\#FF5500FF</item>
     <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
-    <item>Blue</item>
-    <item>Red</item>
-    <item>Green</item>
-    <item>Pink</item>
-    <item>Violet</item>
-    <item>Purple</item>
+    <item>Azul</item>
+    <item>Rojo</item>
+    <item>Verde</item>
+    <item>Rosa</item>
+    <item>Violeta</item>
+    <item>Purpura</item>
   </string-array>
   <string-array name="led_color_entries">
     <item>Blanco (Por defecto)</item>
@@ -680,24 +680,24 @@
     <item>WAPI hexadecimal</item>
   </string-array>
   <string-array name="screen_key_long_press_action">
-    <item>None</item>
-    <item>Show recent apps tray</item>
-    <item>Launch Assistant</item>
-    <item>Launch Google now</item>
-    <item>Close current app</item>
+    <item>Ninguno</item>
+    <item>Mostrar bandeja de aplicaciones recientes</item>
+    <item>Iniciar Asistente</item>
+    <item>Iniciar Google now</item>
+    <item>Cerrar aplicación actual</item>
   </string-array>
   <string-array name="screen_key_long_press_action_value">
-    <item>none</item>
+    <item>ninguno</item>
     <item>recent_panel</item>
     <item>voice_assistant</item>
     <item>google_now</item>
     <item>close_app</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
-    <item>0.5 seconds</item>
-    <item>1 second</item>
-    <item>1.5 seconds</item>
-    <item>2 seconds</item>
+    <item>0.5 segundos</item>
+    <item>1 segundo</item>
+    <item>1.5 segundos</item>
+    <item>2 segundos</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout_value">
     <item>500</item>
@@ -706,11 +706,11 @@
     <item>2000</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
-    <item>1 second</item>
-    <item>2 seconds</item>
-    <item>5 seconds</item>
-    <item>10 seconds</item>
-    <item>20 seconds</item>
+    <item>1 segundos</item>
+    <item>2 segundos</item>
+    <item>5 segundos</item>
+    <item>10 segundos</item>
+    <item>20 segundos</item>
     <item>Always</item>
   </string-array>
   <string-array name="button_light_timeout_value">
@@ -767,82 +767,82 @@
     <item>24,14,-20,6,12,16,8</item>
   </string-array>
   <string-array name="wfd_status">
-    <item>Device connected, creating session…</item>
-    <item>Session created.</item>
-    <item>Session tearing down…</item>
-    <item>Session failed.</item>
-    <item>Timed out, retrying…</item>
-    <item>Device connected</item>
+    <item>Dispositivo conectado, creando sesión…</item>
+    <item>Sesión creada.</item>
+    <item>Sesión tearing down…</item>
+    <item>Sesión fallida.</item>
+    <item>Tiempo agotado, reintentando…</item>
+    <item>Dispositivo conectado</item>
   </string-array>
   <string-array name="msd_pc_system">
-    <item>Windows XP and older versions of Windows</item>
-    <item>Windows Vista and newer versions of Windows</item>
+    <item>Windows XP y versiones anteriores de Windows</item>
+    <item>Windows Vista y las versiones más recientes de Windows</item>
     <item>Mac OS</item>
     <item>Linux</item>
   </string-array>
   <string-array name="msd_pc_system_install_start_summary">
-    <item>"For Windows XP and older versions of Windows,
-driver must be installed manually"</item>
-    <item>"For Windows Vista and newer versions of Windows, 
-the music player will appear automatically"</item>
-    <item>"For Mac OS,
-driver must be installed manually"</item>
+    <item>"Para Windows XP y versiones anteriores de Windows, 
+el controlador debe instalarse manualmente"</item>
+    <item>"Para Windows Vista y las versiones más recientes de Windows, 
+el reproductor de música aparecerá automáticamente"</item>
+    <item>"Para Mac OS, 
+el controlador debe instalarse manualmente"</item>
     <item />
   </string-array>
   <string-array name="msd_pc_system_install_step_1_summary">
-When connected, Xiaomi will appear as a USB mass storage device.
-    <item>"(Ignore the Setup Wizard)
-When connected, Xiaomi will appear as a USB mass storage device.
- Open and select Setup.exe to install"</item>
+    <item>"Una vez conectado, Xiaomi aparecerá como un dispositivo de almacenamiento masivo USB."</item>
+    <item>"(Ignore el Asistente de configuración) 
+Una vez conectado, Xiaomi aparecerá como un dispositivo de almacenamiento masivo USB. 
+  Abrir y seleccione Setup.exe para instalar"</item>
     <item />
-    <item>"When connected, Xiaomi will appear as a USB mass storage device on your desktop.
-Open and select AndroidFileTransfer.dmg to install."</item>
+    <item>"Una vez conectado, Xiaomi aparecerá como un dispositivo de almacenamiento masivo USB en el escritorio. 
+Abra y seleccione AndroidFileTransfer.dmg para instalar."</item>
     <item />
   </string-array>
   <string-array name="msd_pc_system_install_step_2_summary">
-    <item>"2. MI 2 will appear as a USB mass storage
- device when connected to your computer."</item>
+    <item>"2. MI 2 aparecerá como un dispositivo de almacenamiento masivo USB 
+  cuando se conecta a su ordenador."</item>
     <item />
-    <item>Transfer files like you would to any other external hard drive.</item>
+    <item>Transferir archivos como lo haría con cualquier otro disco duro externo.</item>
     <item />
   </string-array>
   <string-array name="msd_pc_system_install_finish_summary">
-    <item>"After you install this driver
-MI 2 will appear as a USB mass storage device when connected to a computer."</item>
-    <item>"For Windows Vista and newer versions of Windows,
-the MI 2 music player will appear on your computer automatically"</item>
-    <item>"When you install this driver
-phone will open automatically when connected to a computer."</item>
+    <item>"Después de instalar este controlador 
+MI 2 aparecerá como un dispositivo de almacenamiento masivo USB cuando se conecta a un ordenador."</item>
+    <item>"Para Windows Vista y las versiones más recientes de Windows, 
+el reproductor de música MI 2 aparecerá en su ordenador de forma automática"</item>
+    <item>"Al instalar este controlador
+el teléfono se abrirá automáticamente cuando se conecta a un ordenador."</item>
     <item />
   </string-array>
   <string-array name="screen_color_title">
-    <item>Warm</item>
-    <item>Standard</item>
-    <item>Cool</item>
+    <item>Cálido</item>
+    <item>Estandard</item>
+    <item>Fresco</item>
   </string-array>
   <string-array name="screen_saturation_title">
-    <item>Brilliant</item>
-    <item>Standard</item>
+    <item>Brillante</item>
+    <item>Estandard</item>
   </string-array>
   <string-array name="startup_hips_values">
     <item>2</item>
     <item>0</item>
   </string-array>
   <string-array name="startup_hips_action">
-    <item>Allow</item>
-    <item>Deny</item>
+    <item>Permitir</item>
+    <item>Denegar</item>
   </string-array>
   <string-array name="entries_color_calibration">
     <item>sRGB</item>
-    <item>Native</item>
+    <item>Nativo</item>
   </string-array>
   <string-array name="values_color_calibration">
     <item>0</item>
     <item>1</item>
   </string-array>
   <string-array name="phone_call_noise_suppression_title">
-    <item>Single-mic noise suppression</item>
-    <item>Dual-mic noise suppression</item>
+    <item>Supresión de ruido de un solo micrófono</item>
+    <item>Supresión de ruido de doble micrófono</item>
   </string-array>
   <string-array name="phone_call_noise_suppression_values">
     <item>1</item>
@@ -850,15 +850,15 @@ phone will open automatically when connected to a computer."</item>
   </string-array>
   <string-array name="change_security_lock_picker_key">
     <item>facial</item>
-    <item>pattern</item>
-    <item>numerical</item>
-    <item>mixed</item>
+    <item>patron</item>
+    <item>numerico</item>
+    <item>mezclado</item>
   </string-array>
   <string-array name="change_security_lock_picker">
-    <item>Face unlock</item>
-    <item>Pattern</item>
+    <item>Desbloqueo Facial</item>
+    <item>Patron</item>
     <item>PIN</item>
-    <item>Password</item>
+    <item>Contraseña</item>
   </string-array>
   <string-array name="dndm_vip_list_group_array">
     <item>@string/dndm_vip_list_custom</item>
@@ -873,9 +873,9 @@ phone will open automatically when connected to a computer."</item>
     <item>2</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
-    <item>Automatically connect</item>
-    <item>Manually connect</item>
-    <item>Always ask</item>
+    <item>Conectar automáticamente</item>
+    <item>Conectar manualmente</item>
+    <item>Siempre preguntar</item>
   </string-array>
   <string-array name="wifi_connect_type_values">
     <item>0</item>
@@ -883,11 +883,11 @@ phone will open automatically when connected to a computer."</item>
     <item>2</item>
   </string-array>
   <string-array name="slideshow_time_entries">
-    <item>5 minutes</item>
-    <item>15 minutes</item>
-    <item>30 minutes</item>
-    <item>1 hour</item>
-    <item>Unlimited</item>
+    <item>5 minutos</item>
+    <item>15 minutos</item>
+    <item>30 minutos</item>
+    <item>1 hora</item>
+    <item>Ilimitado</item>
   </string-array>
   <string-array name="slideshow_time_entryValues">
     <item>300</item>
@@ -897,19 +897,19 @@ phone will open automatically when connected to a computer."</item>
     <item>-1</item>
   </string-array>
   <string-array name="preferred_app_entries">
-    <item>Launcher</item>
+    <item>Lanzador</item>
     <item>Dial</item>
-    <item>Messaging</item>
-    <item>Browser</item>
-    <item>Camera</item>
-    <item>Gallery</item>
-    <item>Music</item>
+    <item>Mensajes</item>
+    <item>Navegador</item>
+    <item>Cámara</item>
+    <item>Galería</item>
+    <item>Música</item>
     <item>Email</item>
   </string-array>
   <string-array name="gemini_sim_info_number_display_format_entries">
-    <item>First 4 digits</item>
-    <item>Last 4 digits</item>
-    <item>Do not display</item>
+    <item>Primeros 4 digitos</item>
+    <item>Ultimos 4 digitos</item>
+    <item>No mostrar</item>
   </string-array>
   <string-array name="gemini_sim_info_number_display_format_values">
     <item>1</item>
@@ -917,9 +917,9 @@ phone will open automatically when connected to a computer."</item>
     <item>0</item>
   </string-array>
   <string-array name="gemini_sim_roaming_reminder_entries">
-    <item>Once</item>
-    <item>Always</item>
-    <item>Never</item>
+    <item>Una vez</item>
+    <item>Siempre</item>
+    <item>Nunca</item>
   </string-array>
   <string-array name="gemini_sim_roaming_reminder_values">
     <item>0</item>
@@ -927,9 +927,9 @@ phone will open automatically when connected to a computer."</item>
     <item>2</item>
   </string-array>
   <string-array name="gsm_umts_network_preferences_choices">
-    <item>GSM/WCDMA (auto mode)</item>
-    <item>WCDMA only</item>
-    <item>GSM only</item>
+    <item>GSM/WCDMA (Modo Automatico)</item>
+    <item>Sólo WCDMA</item>
+    <item>Sólo GSM</item>
   </string-array>
   <string-array name="gsm_umts_network_preferences_values">
     <item>0</item>
@@ -941,26 +941,26 @@ phone will open automatically when connected to a computer."</item>
     <item>Auto 20/40 MHz</item>
   </string-array>
   <string-array name="network_use_entry">
-    <item>Only Home</item>
-    <item>Home + Roaming</item>
+    <item>Sólo Inicio</item>
+    <item>Inicio + Roaming</item>
   </string-array>
   <string-array name="auto_time_entries">
-    <item>Use network-provided time</item>
-    <item>Use GPS-provided time</item>
-    <item>Off</item>
+    <item>Use el tiempo proporcionado por la red</item>
+    <item>Use el tiempo proporcionado por GPS</item>
+    <item>Apagado</item>
   </string-array>
   <string-array name="tvout_system_list">
     <item>PAL</item>
     <item>NTSC</item>
   </string-array>
   <string-array name="apn_type_generic">
-    <item>default</item>
+    <item>predeterminado</item>
     <item>mms</item>
     <item>supl</item>
     <item>wap</item>
   </string-array>
   <string-array name="apn_type_cmcc">
-    <item>default</item>
+    <item>predeterminado</item>
     <item>mms</item>
     <item>supl</item>
     <item>wap</item>
@@ -968,7 +968,7 @@ phone will open automatically when connected to a computer."</item>
     <item>cmmail</item>
   </string-array>
   <string-array name="apn_type_orange">
-    <item>default</item>
+    <item>predeterminado</item>
     <item>mms</item>
     <item>supl</item>
     <item>wap</item>
@@ -1000,9 +1000,9 @@ phone will open automatically when connected to a computer."</item>
     <item>8</item>
   </string-array>
   <string-array name="hdmi_video_mode_entries">
-    <item>Full screen</item>
-    <item>Best fit</item>
-    <item>Original size</item>
+    <item>Pantalla completa</item>
+    <item>Mejor ajuste</item>
+    <item>Tamaño original</item>
   </string-array>
   <string-array name="hdmi_video_mode_entry_values">
     <item>0</item>
@@ -1039,9 +1039,9 @@ phone will open automatically when connected to a computer."</item>
     <item>AKA</item>
   </string-array>
   <string-array name="sim_slot">
-    <item>(unspecified)</item>
-    <item>Sim Slot 1</item>
-    <item>Sim Slot 2</item>
+    <item>(sin especificar)</item>
+    <item>Ranura de Sim 1</item>
+    <item>Ranura de Sim 2</item>
   </string-array>
   <string-array name="wifi_WEP_index">
     <item>1</item>
@@ -1055,9 +1055,9 @@ phone will open automatically when connected to a computer."</item>
     <item>WEP hexadecimal</item>
   </string-array>
   <string-array name="wifi_hotspot_disable_policy_entries">
-    <item>Always</item>
-    <item>Turn off when idle for 5 min</item>
-    <item>Turn off when idle for 10 min</item>
+    <item>Siempre</item>
+    <item>Apagar cuando esté inactivo durante 5 minutos</item>
+    <item>Apagar cuando esté inactivo durante 10 minutos</item>
   </string-array>
   <string-array name="wifi_hotspot_disable_policy_values">
     <item>0</item>
@@ -1081,22 +1081,22 @@ phone will open automatically when connected to a computer."</item>
     <item>1</item>
   </string-array>
   <string-array name="wifi_ap_wps_mode_entries">
-    <item>Push button</item>
-    <item>PIN from client</item>
+    <item>Presione el botón</item>
+    <item>PIN del cliente</item>
   </string-array>
   <string-array name="wifi_ap_wps_mode_values">
     <item>0</item>
     <item>1</item>
   </string-array>
   <string-array name="wifi_ap_max_connection_entries">
-    <item>1 user</item>
-    <item>2 users</item>
-    <item>3 users</item>
-    <item>4 users</item>
-    <item>5 users</item>
-    <item>6 users</item>
-    <item>7 users</item>
-    <item>8 users</item>
+    <item>1 usuario</item>
+    <item>2 usuarios</item>
+    <item>3 usuarios</item>
+    <item>4 usuarios</item>
+    <item>5 usuarios</item>
+    <item>6 usuarios</item>
+    <item>7 usuarios</item>
+    <item>8 usuarios</item>
   </string-array>
   <string-array name="wifi_ap_max_connection_values">
     <item>0</item>
