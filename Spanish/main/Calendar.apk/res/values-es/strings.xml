@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Calendar-->
+  <string name="app_label">Calendario</string>
+  <!--Original value: What-->
+  <string name="what_label">Asunto</string>
+  <!--Original value: Where-->
+  <string name="where_label">Dónde</string>
+  <!--Original value: When-->
+  <string name="when_label">Cuando</string>
+  <!--Original value: Time zone-->
+  <string name="timezone_label">Zona horaria</string>
+  <!--Original value: Guests-->
+  <string name="attendees_label">Invitados</string>
+  <!--Original value: Today-->
+  <string name="today">"Hoy"</string>
+  <!--Original value: Tomorrow-->
+  <string name="tomorrow">Mañana</string>
+  <!--Original value: Today at %s-->
+  <string name="today_at_time_fmt">"Hoy a %s"</string>
+  <!--Original value: Tomorrow at %s-->
+  <string name="tomorrow_at_time_fmt">"Mañana a las %s"</string>
+  <!--Original value: %s, %s-->
+  <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <!--Original value: Repetition-->
+  <string name="repeats_label">Repetición</string>
+  <!--Original value: (No title)-->
+  <string name="no_title_label">(Sin título)</string>
+  <!--Original value: Refresh-->
+  <string name="calendar_refresh">Actualizar</string>
+  <!--Original value: Show day-->
+  <string name="show_day_view">Mostrar día</string>
+  <!--Original value: Agenda-->
+  <string name="agenda_view">Agenda</string>
+  <!--Original value: Day-->
+  <string name="day_view">Día</string>
+  <!--Original value: Week-->
+  <string name="week_view">Semana</string>
+  <!--Original value: Month-->
+  <string name="month_view">Mes</string>
+  <!--Original value: View event-->
+  <string name="event_view">Ver evento</string>
+  <!--Original value: New event-->
+  <string name="event_create">Evento nuevo</string>
+  <!--Original value: Edit event-->
+  <string name="event_edit">Editar evento</string>
+  <!--Original value: Delete event-->
+  <string name="event_delete">Suprimir evento</string>
+  <!--Original value: Today-->
+  <string name="goto_today">Hoy</string>
+  <!--Original value: Settings-->
+  <string name="menu_preferences">Ajustes</string>
+  <!--Original value: Calendars to display-->
+  <string name="menu_select_visible_calendars">Calendarios a mostrar</string>
+  <!--Original value: Search-->
+  <string name="search">Buscar</string>
+  <!--Original value: Hide controls-->
+  <string name="hide_controls">Ocultar controles</string>
+  <!--Original value: Show controls-->
+  <string name="show_controls">Mostrar controles</string>
+  <!--Original value: Calendars to display-->
+  <string name="select_visible_calendars_title">Calendarios a mostrar</string>
+  <!--Original value: synced-->
+  <string name="synced">sincronizado</string>
+  <!--Original value: not synced-->
+  <string name="not_synced">no sincronizado</string>
+  <!--Original value: "This account isn't being synced so your calendars may not be up-to-date."-->
+  <string name="acct_not_synced">Esta cuenta no está sincronizada por lo que su calendario no estará actualizado.</string>
+  <!--Original value: Accounts & sync-->
+  <string name="accounts">"Cuentas"</string>
+  <!--Original value: Calendars to sync-->
+  <string name="select_synced_calendars_title">Calendarios para sincronizar</string>
+  <!--Original value: Calendars to sync-->
+  <string name="select_synced_calendars_button">Calendarios para sincronizar</string>
+  <!--Original value: Event reminder content-->
+  <string name="hint_what">Nombre del evento</string>
+  <!--Original value: Location-->
+  <string name="hint_where">Ubicación del evento</string>
+  <!--Original value: Description-->
+  <string name="hint_description">Descripción del evento</string>
+  <!--Original value: Guests-->
+  <string name="hint_attendees">Direcciones de correo electrónico</string>
+  <!--Original value: Event created-->
+  <string name="creating_event">Se ha creado un evento.</string>
+  <!--Original value: Event saved-->
+  <string name="saving_event">Se ha guardado el evento.</string>
+  <!--Original value: Empty event not created-->
+  <string name="empty_event">Evento vacio no creado.</string>
+  <!--Original value: Invitations will be sent-->
+  <string name="creating_event_with_guest">Invitaciónes enviadas.</string>
+  <!--Original value: Updates will be sent-->
+  <string name="saving_event_with_guest">Actualizaciones enviadas.</string>
+  <!--Original value: Calendar notifications-->
+  <string name="alert_title">Alertas de calendario</string>
+  <!--Original value: View event-->
+  <string name="event_info_title">Ver evento</string>
+  <!--Original value: Meeting invitation-->
+  <string name="event_info_title_invite">Invitación a un evento</string>
+  <!--Original value: TO-->
+  <string name="edit_event_to_label">Hasta</string>
+  <!--Original value: FROM-->
+  <string name="edit_event_from_label">Desde</string>
+  <!--Original value: ALL DAY-->
+  <string name="edit_event_all_day_label">Todo el día</string>
+  <!--Original value: Calendar-->
+  <string name="edit_event_calendar_label">Calendario</string>
+  <!--Original value: Show all-->
+  <string name="edit_event_show_all">Mostrar todas &gt;</string>
+  <!--Original value: Description-->
+  <string name="description_label">Descripción</string>
+  <!--Original value: Status-->
+  <string name="presence_label">Mostrarme como</string>
+  <!--Original value: Privacy-->
+  <string name="privacy_label">Privacidad</string>
+  <!--Original value: Add reminder-->
+  <string name="reminders_label">Recordatorios</string>
+  <!--Original value: No calendars-->
+  <string name="no_syncable_calendars">No hay calendarios sincronizados</string>
+  <!--Original value: Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.-->
+  <string name="no_calendars_found">¿Deseas añadir algún calendario?</string>
+  <!--Original value: "Calendar works better with a Xiaomi account.
+
+• Access it from any web browser
+• Back up your events securely"-->
+  <string name="create_an_account_desc">"Calendario funciona mejor con una cuenta Google.
+
+• Accede a el desde cualquier navegador web
+• Haz copias de seguridad de tus eventos"</string>
+  <!--Original value: Add account-->
+  <string name="add_account">Añadir cuenta</string>
+  <!--Original value: Calendar:-->
+  <string name="view_event_calendar_label">Calendario:</string>
+  <!--Original value: Organizer:-->
+  <string name="view_event_organizer_label">Organizador:</string>
+  <!--Original value: Attending?-->
+  <string name="view_event_response_label">¿Asistirás?</string>
+  <!--Original value: Yes-->
+  <string name="response_yes">Si</string>
+  <!--Original value: Maybe-->
+  <string name="response_maybe">Quizás</string>
+  <!--Original value: No-->
+  <string name="response_no">No</string>
+  <!--Original value: Email guests-->
+  <string name="email_guests_label">"Clientes de correo electrónico"</string>
+  <!--Original value: Email with-->
+  <string name="email_picker_label">"Email con"</string>
+  <!--Original value: "Re: "-->
+  <string name="email_subject_prefix">"\"Re:\""</string>
+  <!--Original value: Quick responses-->
+  <string name="quick_response_settings">Respuestas rápidas</string>
+  <!--Original value: Edit default responses when emailing guests-->
+  <string name="quick_response_settings_summary">Editar las respuestas predeterminadas cuando se realizan las invitaciones por correo</string>
+  <!--Original value: Edit quick responses-->
+  <string name="quick_response_settings_title">"Edite respuestas rápidas"</string>
+  <!--Original value: Quick response-->
+  <string name="quick_response_settings_edit_title">"Respuesta rápida"</string>
+  <!--Original value: Choose quick response-->
+  <string name="quick_response_dialog_title">"Elija una respuesta rápida"</string>
+  <!--Original value: Failed to find a mail app-->
+  <string name="quick_response_email_failed">"No se pudo encontrar una aplicación de correo"</string>
+  <!--Original value: Custom message…-->
+  <string name="quick_response_custom_msg">"Messageâ Custom  |"</string>
+  <!--Original value: Organizer:-->
+  <string name="event_info_organizer">Organizadorr:</string>
+  <!--Original value: Reminders-->
+  <string name="event_info_reminders_label">Recordatorios</string>
+  <!--Original value: TODAY, %1$s-->
+  <string name="agenda_today">HOY, %1$s</string>
+  <!--Original value: YESTERDAY, %1$s-->
+  <string name="agenda_yesterday">AYER, %1$s</string>
+  <!--Original value: TOMORROW, %1$s-->
+  <string name="agenda_tomorrow">MAÑANA, %1$s</string>
+  <!--Original value: Loading…-->
+  <string name="loading">Cargando…</string>
+  <!--Original value: Touch to view events before %1$s-->
+  <string name="show_older_events">Mostrando eventos a partir del %1$s. Toca aquí para buscar más.</string>
+  <!--Original value: Touch to view events after %1$s-->
+  <string name="show_newer_events">Mostrando eventos hasta el %1$s. Toca aquí para buscar más.</string>
+  <!--Original value: Search my calendars-->
+  <string name="search_title">Buscar mis calendarios</string>
+  <!--Original value: Details-->
+  <string name="edit_event_label">Detalles</string>
+  <!--Original value: Edit-->
+  <string name="edit_label">Editar</string>
+  <!--Original value: Delete-->
+  <string name="delete_label">Eliminar</string>
+  <!--Original value: Done-->
+  <string name="save_label">OK</string>
+  <!--Original value: Cancel-->
+  <string name="discard_label">Revertir</string>
+  <!--Original value: Snooze all-->
+  <string name="snooze_all_label">Posponer</string>
+  <!--Original value: Dismiss all-->
+  <string name="dismiss_all_label">Descartar</string>
+  <!--Original value: Snooze-->
+  <string name="snooze_label">"Dormitar"</string>
+  <!--Original value: One-time event-->
+  <string name="does_not_repeat">Evento único</string>
+  <!--Original value: Daily-->
+  <string name="daily">Cada día</string>
+  <!--Original value: Every weekday (Mon–Fri)-->
+  <string name="every_weekday">Cada día laborable (lunes-viernes)</string>
+  <!--Original value: Weekly (every %s)-->
+  <string name="weekly">Cada semana (todos los %s)</string>
+  <!--Original value: Monthly (%1$s %2$s of every month)-->
+  <string name="monthly_on_day_count">Cada mes (cada %1$s %2$s)</string>
+  <!--Original value: Monthly-->
+  <string name="monthly">Mensualmente</string>
+  <!--Original value: Yearly-->
+  <string name="yearly_plain">Anualmente</string>
+  <!--Original value: Monthly (on the same day each month)-->
+  <string name="monthly_on_day">Cada mes (el día %s)</string>
+  <!--Original value: Yearly (every %s)-->
+  <string name="yearly">Cada año (el %s)</string>
+  <!--Original value: "Custom (can't customize on phone)"-->
+  <string name="custom">Personalizado… (no se puede personalizar por teléfono)</string>
+  <!--Original value: Change only this event-->
+  <string name="modify_event">Cambiar sólo este evento</string>
+  <!--Original value: Change all events in the series-->
+  <string name="modify_all">Cambiar todos los eventos de la serie</string>
+  <!--Original value: Change this and all future events-->
+  <string name="modify_all_following">Cambiar este y todos los eventos futuros</string>
+  <!--Original value: New event-->
+  <string name="new_event_dialog_label">Nuevo evento</string>
+  <!--Original value: New event-->
+  <string name="new_event_dialog_option">Nuevo evento</string>
+  <!--Original value: Delete this event?-->
+  <string name="delete_this_event_title">Este evento se suprimirá.</string>
+  <!--Original value: Delete %s?-->
+  <string name="delete_recurring_event_title">"Eliminar %s?"</string>
+  <!--Original value: Change response-->
+  <string name="change_response_title">Cambiar respuesta</string>
+  <!--Original value: General settings-->
+  <string name="menu_general_preferences">Ajustes generales</string>
+  <!--Original value: About Calendar-->
+  <string name="menu_about_preferences">Acerca del calendario</string>
+  <!--Original value: Settings-->
+  <string name="preferences_title">Ajustes</string>
+  <!--Original value: Calendar view setting-->
+  <string name="preferences_general_title">Configuración de la vista de calendario</string>
+  <!--Original value: Notification & reminders-->
+  <string name="preferences_reminder_title">Configuración de los recordatorios</string>
+  <!--Original value: Hide declined events-->
+  <string name="preferences_hide_declined_title">Eventos rechazados</string>
+  <!--Original value: Week starts on-->
+  <string name="preferences_week_start_day_title">Semana empieza en</string>
+  <!--Original value: Week starts on-->
+  <string name="preferences_week_start_day_dialog">Semana empieza en</string>
+  <!--Original value: -1-->
+  <string name="preferences_week_start_day_default">2</string>
+  <!--Original value: Clear search history-->
+  <string name="preferences_clear_search_history_title">Eliminar historial de búsqueda</string>
+  <!--Original value: "Remove all the searches you've performed"-->
+  <string name="preferences_clear_search_history_summary">Eliminar todas las búsquedas realizadas</string>
+  <!--Original value: Search history cleared-->
+  <string name="search_history_cleared">Historial de búsqueda eliminado</string>
+  <!--Original value: Notifications-->
+  <string name="preferences_alerts_title">Recordatorios</string>
+  <!--Original value: Vibrate-->
+  <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
+  <!--Original value: Sound-->
+  <string name="preferences_alerts_ringtone_title">Elegir tono</string>
+  <!--Original value: Pop-up notification-->
+  <string name="preferences_alerts_popup_title">Notificación Pop-up</string>
+  <!--Original value: Default reminder time-->
+  <string name="preferences_default_reminder_title">Duración del recordatorio por defecto</string>
+  <!--Original value: Default reminder time-->
+  <string name="preferences_default_reminder_dialog">Duración del recordatorio por defecto</string>
+  <!--Original value: 10-->
+  <string name="preferences_default_reminder_default">10</string>
+  <!--Original value: Use home time zone-->
+  <string name="preferences_use_home_tz_title">Usar zona horaria</string>
+  <!--Original value: Displays calendars and event times in your home time zone when traveling-->
+  <string name="preferences_use_home_tz_descrip">Mostrará los calendarios y eventos en su zona horaria cuando viaje</string>
+  <!--Original value: Home time zone-->
+  <string name="preferences_home_tz_title">Zona horaria predeterminada</string>
+  <!--Original value: America/Los_Angeles-->
+  <string name="preferences_home_tz_default">Europe/Brussels</string>
+  <!--Original value: Show week number-->
+  <string name="preferences_show_week_num_title">Mostrar número de semana</string>
+  <!--Original value: About-->
+  <string name="preferences_about_title">Acerca de</string>
+  <!--Original value: Build version-->
+  <string name="preferences_build_version">Versión de la compilación</string>
+  <!--Original value: never-->
+  <string name="prefDefault_alerts_vibrateWhen">Nunca</string>
+  <!--Original value: always-->
+  <string name="prefDefault_alerts_vibrate_true">Siempre</string>
+  <!--Original value: never-->
+  <string name="prefDefault_alerts_vibrate_false">Nunca</string>
+  <!--Original value: Vibrate-->
+  <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
+  <!--Original value: Calendar-->
+  <string name="gadget_title">Calendario</string>
+  <!--Original value: No upcoming calendar events-->
+  <string name="gadget_no_events">No hay eventos programados</string>
+  <!--Original value: TARDIS-->
+  <string name="tardis">TARDIS</string>
+  <!--Original value: Send database-->
+  <string name="copy_db">Enviar base de datos</string>
+  <!--Original value: Searching %s…-->
+  <string name="directory_searching_fmt">Buscando %s…</string>
+  <!--Original value: Remove attendee-->
+  <string name="accessibility_remove_attendee">Borrar asistentes</string>
+  <!--Original value: Start date-->
+  <string name="accessibility_pick_start_date">Fecha de inicio</string>
+  <!--Original value: FROM-->
+  <string name="accessibility_pick_start_time">Hora de inicio</string>
+  <!--Original value: End date-->
+  <string name="accessibility_pick_end_date">Fecha de finalización</string>
+  <!--Original value: TO-->
+  <string name="accessibility_pick_end_time">Hora de finalización</string>
+  <!--Original value: Time zone-->
+  <string name="accessibility_pick_time_zone">Zona horaria</string>
+  <!--Original value: Add reminder-->
+  <string name="accessibility_add_reminder">Añadir recordatorio</string>
+  <!--Original value: Remove reminder-->
+  <string name="accessibility_remove_reminder">Eliminar recordatorio</string>
+  <!--Original value: Add attendee-->
+  <string name="accessibility_add_attendee">Añadir asistentes</string>
+  <!--Original value: Sync calendar-->
+  <string name="accessibility_sync_cal">Sincronizar</string>
+  <!--Original value: All day event-->
+  <string name="accessibility_all_day">Evento para todo el dia</string>
+  <!--Original value: Repetition-->
+  <string name="accessibility_repeats">Repetición</string>
+  <!--Original value: Reminder time-->
+  <string name="accessibility_reminder_time">Hora de recordatorio</string>
+  <!--Original value: Reminder type-->
+  <string name="accessibility_reminder_type">Tipo de recordatorio</string>
+  <!--Original value: Show me as-->
+  <string name="accessibility_reminder_showmeas">Mostrarme como</string>
+  <!--Original value: Privacy-->
+  <string name="accessibility_reminder_privacy">Privacidad</string>
+  <!--Original value: Calendar notification-->
+  <string name="acessibility_cal_notification">"Notificación Calendario"</string>
+  <!--Original value: Snooze notification-->
+  <string name="acessibility_snooze_notification">"Notificación Snooze"</string>
+  <!--Original value: New event-->
+  <string name="day_view_new_event_hint">+ Nuevo evento</string>
+  <!--Original value: Event %1$s of %2$s.-->
+  <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
+  <!--Original value: Selected event-->
+  <string name="acessibility_selected_marker_description">"Evento seleccionado"</string>
+  <!--Original value: Do NOT check ->-->
+  <string name="do_not_check">"NO marque -&gt;"</string>
+  <!--Original value: Local calendar-->
+  <string name="local_calendar_display_name">Calendario local</string>
+  <!--Original value: Birthday reminder-->
+  <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
+  <!--Original value: Local account-->
+  <string name="local_owner_account_name">Cuenta local</string>
+  <!--Original value: "%1$s's birthday"-->
+  <string name="birthday_notification_title_today">Cumpleaños de %1$s</string>
+  <!--Original value: "Don't forget to say happy birthday!"-->
+  <string name="birthday_notification_text_today">Hoy es su cumpleaños!</string>
+  <!--Original value: "%1$s's birthday is coming up"-->
+  <string name="birthday_notification_title_three_days_later">Se aproxima el cumpleaños de %1$s</string>
+  <!--Original value: 3 days until the birthday (%3$s)-->
+  <string name="birthday_notification_text_three_days_later">3 dias para su cumpleaños!</string>
+  <!--Original value: -->
+  <string name="birthday_notification_age_term">""</string>
+  <!--Original value: -->
+  <string name="birthday_notification_type_term_lunar">""</string>
+  <!--Original value: @string/birthday_notification_title_today-->
+  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
+  <!--Original value: "Today is %1$s's birthday!"-->
+  <string name="birthday_event_description">Hoy es el compleaños de %1$s!</string>
+  <!--Original value: -->
+  <string name="birthday_event_description_detail_leap">""</string>
+  <!--Original value: -->
+  <string name="birthday_event_description_detail_smart">""</string>
+  <!--Original value: Jump-->
+  <string name="jump_date">"Jump"</string>
+  <!--Original value: Jump to date-->
+  <string name="jump_date_full">Ir a una fecha</string>
+  <!--Original value: -->
+  <string name="miui_chinese_week_range_single">""</string>
+  <!--Original value: -->
+  <string name="miui_chinese_week_range_double">""</string>
+  <!--Original value: New-->
+  <string name="miui_menu_create_event">Nuevo</string>
+  <!--Original value: General-->
+  <string name="preferences_category_general_title">"General"</string>
+  <!--Original value: Account-->
+  <string name="preferences_category_account_title">Cuenta</string>
+  <!--Original value: : (-->
+  <string name="work_day_indication">": ("</string>
+  <!--Original value: : )-->
+  <string name="rest_day_indication">":)"</string>
+  <!--Original value: D-->
+  <string name="button_day">D</string>
+  <!--Original value: M-->
+  <string name="button_month">M</string>
+  <!--Original value: Account and calendar-->
+  <string name="account_and_calendar">"Cuenta y calendario"</string>
+  <!--Original value: Account and calendar to display-->
+  <string name="account_and_calendar_to_display">"Cuenta y el calendario para mostrar"</string>
+  <!--Original value: Default reminder mode-->
+  <string name="default_reminder_mode">"El modo por defecto recordatorio"</string>
+  <!--Original value: Time zone-->
+  <string name="time_zone">"Huso horario"</string>
+  <!--Original value: Show all lunar-->
+  <string name="show_all_lunar">"Mostrar todos lunar"</string>
+  <!--Original value: Show almanac-->
+  <string name="show_almanac">"Mostrar almanaque"</string>
+  <!--Original value: 月-->
+  <string name="event_lunar_month">月</string>
+  <!--Original value: 宜-->
+  <string name="huangli_good_type">宜</string>
+  <!--Original value: 忌-->
+  <string name="huangli_bad_type">忌</string>
+  <!--Original value: All Day-->
+  <string name="event_all_day_label">"Todo el día"</string>
+  <!--Original value: No agenda today-->
+  <string name="today_no_events">"No hay agenda de hoy"</string>
+  <!--Original value: Calendar account-->
+  <string name="event_account">"Calendario"</string>
+  <!--Original value: Show-->
+  <string name="event_show_more">"Show"</string>
+  <!--Original value: Hide-->
+  <string name="event_hide_more">"Ocultar"</string>
+  <!--Original value: "When: "-->
+  <string name="event_info_when">"\"Cuando\""</string>
+  <!--Original value: "Repetition: "-->
+  <string name="event_info_repeat">"\"Repetición\""</string>
+  <!--Original value: "Where: "-->
+  <string name="event_info_where">"\"Donde:\""</string>
+  <!--Original value: "Description: "-->
+  <string name="event_info_descrip">"\"Descripción:\""</string>
+  <!--Original value: 冲煞-->
+  <string name="chongsha">冲煞</string>
+  <!--Original value: 五行-->
+  <string name="wuxing">五行</string>
+  <!--Original value: 星宿-->
+  <string name="xingxiu">星宿</string>
+  <!--Original value: 胎神-->
+  <string name="taishen">胎神</string>
+  <!--Original value: 彭祖-->
+  <string name="pengzu">彭祖</string>
+  <!--Original value: 诸神-->
+  <string name="zhushen">诸神</string>
+  <!--Original value: MIUI新年送礼-->
+  <string name="activity_title">"MIUI"</string>
+  <!--Original value: 充值10元抽奖-->
+  <string name="activity_summary">充值10元抽奖</string>
+  <!--Original value: Lunar Date-->
+  <string name="lunar_date">"Lunar Fecha"</string>
+  <!--Original value: Select a style-->
+  <string name="widget_select_style">"Seleccionar un estilo"</string>
+  <!--Original value: The next events-->
+  <string name="widget_events">"Los próximos eventos"</string>
+  <!--Original value: Next, no agenda-->
+  <string name="widget_no_events">"A continuación, hay una agenda"</string>
+  <!--Original value: 可购%s火车票（网络、电话订票）-->
+  <string name="gou_piao_website_start_time">可购%s火车票（网络、电话订票）</string>
+  <!--Original value: 车站、代售点可购%s火车票-->
+  <string name="gou_piao_window_start_time">车站、代售点可购%s火车票</string>
+  <!--Original value: 提醒我抢购%s的火车票-->
+  <string name="gou_piao_event_title">提醒我抢购%s的火车票</string>
+  <!--Original value: 在这一天提醒我抢票-->
+  <string name="gou_piao_item1">在这一天提醒我抢票</string>
+  <!--Original value: 拨打95105105电话订票-->
+  <string name="gou_piao_item2">拨打95105105电话订票</string>
+  <!--Original value: 使用12306应用订票-->
+  <string name="gou_piao_item3">使用12306应用订票</string>
+  <!--Original value: 显示春运购票日历-->
+  <string name="show_gou_piao">显示春运购票日历</string>
+  <!--Original value: Jan-->
+  <string name="month_medium_january">"Ene"</string>
+  <!--Original value: Feb-->
+  <string name="month_medium_february">"Febrero"</string>
+  <!--Original value: Mar-->
+  <string name="month_medium_march">"Marzo"</string>
+  <!--Original value: Apr-->
+  <string name="month_medium_april">"Abril"</string>
+  <!--Original value: May-->
+  <string name="month_medium_may">"Mayo"</string>
+  <!--Original value: Jun-->
+  <string name="month_medium_june">"Junio"</string>
+  <!--Original value: Jul-->
+  <string name="month_medium_july">"Julio"</string>
+  <!--Original value: Aug-->
+  <string name="month_medium_august">"Agosto"</string>
+  <!--Original value: Sep-->
+  <string name="month_medium_september">"Septiembre"</string>
+  <!--Original value: Oct-->
+  <string name="month_medium_october">"Octubre"</string>
+  <!--Original value: Nov-->
+  <string name="month_medium_november">"Noviembre"</string>
+  <!--Original value: Dec-->
+  <string name="month_medium_december">"Diciembre"</string>
+  <!--Original value: +%1$s-->
+  <string name="more_string">%1$s más...</string>
+  <!--Original value: Copy email address-->
+  <string name="copy_email">"Copia la dirección de correo electrónico"</string>
+  <!--Original value: Copy phone number-->
+  <string name="copy_number">"Copia el número de teléfono"</string>
+  <!--Original value: Return-->
+  <string name="done">"Retorno"</string>
+  <!--Original value: -->
+  <string name="event_info_desc_more">Más</string>
+  <!--Original value: -->
+  <string name="event_info_desc_less">Menos</string>
+  <!--Original value: -->
+  <string name="copy">Esperando más contactos</string>
+  <!--Original value: -->
+  <string name="chips_waiting_for_directory_result">Copiar dirección de correo electrónico</string>
+</resources>

@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: "App isn't installed on your phone"-->
+  <string name="activity_not_found">La aplicación no está instalada en el teléfono.</string>
+  <!--Original value: System launcher-->
+  <string name="application_name">MiuiHome</string>
+  <!--Original value: Apply-->
+  <string name="apply_as_lock_wallpaper">"Aplicar"</string>
+  <!--Original value: Apply this wallpaper to your lock screen too?-->
+  <string name="apply_as_lock_wallpaper_message">"Aplique este fondo de pantalla para la pantalla de bloqueo también?"</string>
+  <!--Original value: Dangerous-->
+  <string name="aqi_quality_index_dangerous">"Peligroso"</string>
+  <!--Original value: Good-->
+  <string name="aqi_quality_index_good">"Bueno"</string>
+  <!--Original value: Hazardous-->
+  <string name="aqi_quality_index_hazardous">"Peligroso"</string>
+  <!--Original value: Light pollution-->
+  <string name="aqi_quality_index_light_pollution">"La contaminación lumínica"</string>
+  <!--Original value: Moderate-->
+  <string name="aqi_quality_index_moderate">"Moderado"</string>
+  <!--Original value: Unhealthy-->
+  <string name="aqi_quality_index_unhealthy">"Insalubre"</string>
+  <!--Original value: Buffering…-->
+  <string name="buffering">Almacenando en buffer...</string>
+  <!--Original value: Cancel-->
+  <string name="cancel_action">Cancelar</string>
+  <!--Original value: Cancel-->
+  <string name="cancel_btn_label">Cancelar</string>
+  <!--Original value: "Can't remove folder"-->
+  <string name="cant_remove_folder">No se puede eliminar, carpeta no vacía</string>
+  <!--Original value: Unable to remove this app-->
+  <string name="cant_remove_retained_app">No se puede borrar una aplicación modificada por el operador</string>
+  <!--Original value: "Can't remove system app"-->
+  <string name="cant_remove_system_app">No se puede borrar una aplicación del sistema</string>
+  <!--Original value: Choose wallpaper from-->
+  <string name="chooser_wallpaper">Seleccionar fondo</string>
+  <!--Original value: OK-->
+  <string name="confirm_btn_label">Aceptar</string>
+  <!--Original value: Custom-->
+  <string name="custom_wallpaper_picker">Custom</string>
+  <!--Original value: Games-->
+  <string name="default_folder_title_game">Juegos</string>
+  <!--Original value: More Apps-->
+  <string name="default_folder_title_recommend">Recomendadas</string>
+  <!--Original value: System-->
+  <string name="default_folder_title_security">Centro de Seguridad</string>
+  <!--Original value: Tools-->
+  <string name="default_folder_title_tools">Herramientas</string>
+  <!--Original value: Default-->
+  <string name="default_name">"Defecto"</string>
+  <!--Original value: 10086.cn-->
+  <string name="default_shortcut_title_10086">10086.cn</string>
+  <!--Original value: %1$d:%3$02d:%5$02d-->
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <!--Original value: %2$2d:%5$02d-->
+  <string name="durationformatshort">%2$2d:%5$02d</string>
+  <!--Original value: %2$02d:%5$02d-->
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <!--Original value: Edit folder name-->
+  <string name="edit_folder_title">Editar carpetas</string>
+  <!--Original value: Add Widgets-->
+  <string name="editing_add_widget_tips">"Añadir Widgets"</string>
+  <!--Original value: Change Screen Transition Effect-->
+  <string name="editing_set_transition_effect_tips">"Cambie Efecto de transición de pantalla"</string>
+  <!--Original value: Change Wallpaper-->
+  <string name="editing_set_wallpaper_tips">"Cambiar imagen de fondo"</string>
+  <!--Original value: Edit Home screen-->
+  <string name="editing_tips">Editar o añadir widget</string>
+  <!--Original value: Touch to add songs-->
+  <string name="emptyplaylist">Lista de reproducción vacía</string>
+  <!--Original value: Encryption-->
+  <string name="encryption">Cifrado</string>
+  <!--Original value: Failed to remove-->
+  <string name="failed_to_delete_temporary">No se puede eliminar, intentelo más tarde</string>
+  <!--Original value: Move failed-->
+  <string name="failed_to_drop">No se ha podido mover el icono, devuelto a la posición original</string>
+  <!--Original value: Widget invalid-->
+  <string name="failed_to_drop_widget_invalid">Fallo al mover, widget invalido</string>
+  <!--Original value: No more room on this Home screen-->
+  <string name="failed_to_drop_widget_nospace">Fallo al mover, no tiene suficiente espacio</string>
+  <!--Original value: Folder-->
+  <string name="folder_name">Carpeta</string>
+  <!--Original value: Failed to load frame-->
+  <string name="frame_load_failed">"Error al cargar el marco"</string>
+  <!--Original value: Choose app-->
+  <string name="free_style_apps_title">"Elija aplicación"</string>
+  <!--Original value: All apps-->
+  <string name="free_style_drawer_title">"Todas las aplicaciones"</string>
+  <!--Original value: App-->
+  <string name="free_style_edit_app">"App"</string>
+  <!--Original value: Empty-->
+  <string name="free_style_edit_bar_empty">"Vacío"</string>
+  <!--Original value: Choose app-->
+  <string name="free_style_edit_bar_select_app">"Elija aplicación"</string>
+  <!--Original value: Tap rectangle to edit-->
+  <string name="free_style_edit_bottom_empty_tip">"Toque rectángulo para editar"</string>
+  <!--Original value: Drawer-->
+  <string name="free_style_edit_drawer">"Cajón"</string>
+  <!--Original value: Touch & hold to move an item-->
+  <string name="free_style_edit_move_tip">"Tocar"</string>
+  <!--Original value: Objects-->
+  <string name="free_style_edit_tab_free_component">"Objetos"</string>
+  <!--Original value: Shortcuts-->
+  <string name="free_style_edit_tab_shortcut">"Accesos directos"</string>
+  <!--Original value: Widgets-->
+  <string name="free_style_edit_tab_widget">Widgets</string>
+  <!--Original value: Swipe down using two fingers to view MiSpace-->
+  <string name="free_style_enter_tip">"Deslice hacia abajo con dos dedos para ver MiSpace"</string>
+  <!--Original value: Swipe up using two fingers to return to Home screen-->
+  <string name="free_style_exit_tip">"Pase hacia arriba con dos dedos para volver a la pantalla de inicio"</string>
+  <!--Original value: Loading…-->
+  <string name="free_style_londing_text">"Cargando ..."</string>
+  <!--Original value: Cleaner-->
+  <string name="gadget_clear_button_label">"Limpiador"</string>
+  <!--Original value: Clock 2x1-->
+  <string name="gadget_clock_12_label">Reloj 1x2</string>
+  <!--Original value: Clock 2x2-->
+  <string name="gadget_clock_22_label">Reloj 2x2</string>
+  <!--Original value: Clock 4x2-->
+  <string name="gadget_clock_24_label">Reloj 2x4</string>
+  <!--Original value: Clock-->
+  <string name="gadget_clock_label">"Reloj"</string>
+  <!--Original value: Widget failed to load-->
+  <string name="gadget_error_text">Hubo un problema al cargar el widget</string>
+  <!--Original value: Google Search-->
+  <string name="gadget_google_search_label">"Google Search"</string>
+  <!--Original value: Loading widget…-->
+  <string name="gadget_load_error">Error cargando widget...</string>
+  <!--Original value: Image 2x2-->
+  <string name="gadget_photo_22_label">Marco 2x2</string>
+  <!--Original value: Image 4x2-->
+  <string name="gadget_photo_24_label">Marco 2x4</string>
+  <!--Original value: Image 4x4-->
+  <string name="gadget_photo_44_label">Marco 4x4</string>
+  <!--Original value: Image-->
+  <string name="gadget_photo_label">"Imagen"</string>
+  <!--Original value: Search-->
+  <string name="gadget_search_label">"Búsqueda"</string>
+  <!--Original value: "Touch to download MIUI's Weather app"-->
+  <string name="gadget_weather_app_not_installed">MIUI Weather no está instalado</string>
+  <!--Original value: Air quality:-->
+  <string name="gadget_weather_aqi_title">"Calidad del aire:"</string>
+  <!--Original value: You need to download app content: %1$s (%2$s). Restart the app after download completes.-->
+  <string name="gadget_weather_download_message">"Necesitas descargar contenido de la aplicación: %1$s (%2$s).
+Reinicie la aplicación después de completar la descarga."</string>
+  <!--Original value: Download-->
+  <string name="gadget_weather_download_start">"Descargar"</string>
+  <!--Original value: Download-->
+  <string name="gadget_weather_download_title">"Descargar"</string>
+  <!--Original value: Content is downloading. Restart the app after download completes.-->
+  <string name="gadget_weather_downloading">"El contenido está descargando. "</string>
+  <!--Original value: No weather data-->
+  <string name="gadget_weather_loading">"Sin datos meteorológicos"</string>
+  <!--Original value: Low temp-->
+  <string name="gadget_weather_low_temp">"A baja temperatura"</string>
+  <!--Original value: Gadget type-->
+  <string name="gadget_weather_theme_type">"Tipo Gadget"</string>
+  <!--Original value: MM/d EEE-->
+  <string name="gadget_weather_time_format">D/MM EEE</string>
+  <!--Original value: -->
+  <string name="gadget_weather_time_spliter">:</string>
+  <!--Original value: Weather-->
+  <string name="gadget_weather_title">"Tiempo"</string>
+  <!--Original value: Weather-->
+  <string name="gadget_weather_title_14">Tiempo 1x4</string>
+  <!--Original value: Weather-->
+  <string name="gadget_weather_title_24">Tiempo 2x4</string>
+  <!--Original value: Search-->
+  <string name="global_search_hint">Buscar</string>
+  <!--Original value: New folder-->
+  <string name="group_folder">Nueva carpeta</string>
+  <!--Original value: Folders-->
+  <string name="group_live_folders">Carpetas</string>
+  <!--Original value: Shortcuts-->
+  <string name="group_shortcuts">Accesos directos</string>
+  <!--Original value: "App isn't installed in your phone. Find and download app now?"-->
+  <string name="guide_install_app_msg">"\"App no ​​está instalado en el teléfono. Buscar y descargar aplicación?\""</string>
+  <!--Original value: Install app-->
+  <string name="guide_install_app_title">"Instalar la aplicación"</string>
+  <!--Original value: Touch & hold to pick up a widget-->
+  <string name="guide_tips_editing_mode">Mantenga pulsado un widget unos segundos y arrástrelo al escritorio</string>
+  <!--Original value: bottom_point-->
+  <string name="home_indicator">bottom_point</string>
+  <!--Original value: Install-->
+  <string name="install">Instalar</string>
+  <!--Original value: Invalid contact-->
+  <string name="invalid_contact_shortcut">Acceso directo de contacto no válido</string>
+  <!--Original value: Loading launcher…-->
+  <string name="loading_desktop">Cargando lanzador...</string>
+  <!--Original value: Failed to apply-->
+  <string name="lock_screen_failed_message">"Error al aplicar"</string>
+  <!--Original value: Applied-->
+  <string name="lock_screen_success_message">"Aplicado"</string>
+  <!--Original value: Settings-->
+  <string name="maml_component_customization_title">"Configuración"</string>
+  <!--Original value: Add-->
+  <string name="menu_add">Añadir</string>
+  <!--Original value: Go back to Home screen-->
+  <string name="menu_back_desktop">Volver al escritorio</string>
+  <!--Original value: Settings-->
+  <string name="menu_customize">"Configuración"</string>
+  <!--Original value: Edit Home screen-->
+  <string name="menu_edit">Modificar escritorio</string>
+  <!--Original value: Exit MiSpace-->
+  <string name="menu_exit_scene">Salir de Free Desktop</string>
+  <!--Original value: Place on Home screen-->
+  <string name="menu_item_add_item">Añadir al escritorio</string>
+  <!--Original value: Launcher settings-->
+  <string name="menu_launcher_setting">Ajustes del Launcher</string>
+  <!--Original value: Choose a theme-->
+  <string name="menu_picktheme">"Elija un tema"</string>
+  <!--Original value: Reset to default layout-->
+  <string name="menu_reset_scene">Volvera escena predeterminada</string>
+  <!--Original value: Search-->
+  <string name="menu_search">Buscar</string>
+  <!--Original value: Settings-->
+  <string name="menu_settings">Ajustes</string>
+  <!--Original value: Sort apps-->
+  <string name="menu_sort">Ordenar los iconos de escritorio</string>
+  <!--Original value: Wallpaper-->
+  <string name="menu_wallpaper">Fondo de pantalla</string>
+  <!--Original value: Preview Home screens-->
+  <string name="menu_workspace_preview">Vista previa</string>
+  <!--Original value: Click Icons to Start-->
+  <string name="multi_selecting_tips">"Haga clic en los iconos para iniciar"</string>
+  <!--Original value: Online Wallpaper-->
+  <string name="online_wallpaper">"Wallpaper Online"</string>
+  <!--Original value: No more room on this Home screen-->
+  <string name="out_of_space">No queda espacio en el escritorio.</string>
+  <!--Original value: Allows an app to add shortcuts without user intervention.-->
+  <string name="permdesc_install_shortcut">Permite que una aplicación añada accesos directos sin intervención del usuario.</string>
+  <!--Original value: Allows an app to add widgets without user intervention.-->
+  <string name="permdesc_install_widget">"Permite que una aplicación para añadir widgets y sin intervención del usuario."</string>
+  <!--Original value: Allows an app to read the settings and shortcuts in Home.-->
+  <string name="permdesc_read_settings">Permite que una aplicación lea la información de configuración y accesos directos del escritorio.</string>
+  <!--Original value: Allows an app to remove shortcuts without user intervention.-->
+  <string name="permdesc_uninstall_shortcut">Permite que una aplicación elimine accesos directos sin intervención del usuario.</string>
+  <!--Original value: Allows an app to change the settings and shortcuts in Home.-->
+  <string name="permdesc_write_settings">Permite que una aplicación modifique la configuración y los accesos directos de la página de inicio.</string>
+  <!--Original value: Install shortcuts-->
+  <string name="permlab_install_shortcut">instalar accesos directos</string>
+  <!--Original value: Install widgets-->
+  <string name="permlab_install_widget">"Instale los widgets"</string>
+  <!--Original value: Read Home Settings and Shortcuts-->
+  <string name="permlab_read_settings">leer información de accesos directos y de configuración del escritorio</string>
+  <!--Original value: Uninstall shortcuts-->
+  <string name="permlab_uninstall_shortcut">desinstalar accesos directos</string>
+  <!--Original value: Edit Home Settings and Shortcuts-->
+  <string name="permlab_write_settings">escribir información de accesos directos y de configuración del escritorio</string>
+  <!--Original value: Preview-->
+  <string name="photo_adjust">Editar fotografía</string>
+  <!--Original value: Apply-->
+  <string name="photo_confirm">Confirmar</string>
+  <!--Original value: Failed to load photo-->
+  <string name="photo_load_failed">Fallo al cargar la foto!</string>
+  <!--Original value: App icon layout-->
+  <string name="pref_cell_layout_size">Tipo de escritorio</string>
+  <!--Original value: Turn off to free up memory. May cause slower performance.-->
+  <string name="pref_enable_drawing_cache_summary">Desactivar esta opción liberará memoria pero reducirá la velocidad</string>
+  <!--Original value: Drawing cache-->
+  <string name="pref_enable_drawing_cache_title">Caché</string>
+  <!--Original value: Enable app shadow and Favorites tray reflection effects-->
+  <string name="pref_icon_shadow_summary">Desactivar la sombra de los iconos sobre el escritorio</string>
+  <!--Original value: App shadows-->
+  <string name="pref_icon_shadow_title">Sombra de iconos</string>
+  <!--Original value: Keep launcher running when memory is low-->
+  <string name="pref_keep_in_memory_summary">Garantizado el funcionamiento del launcher con memoria baja</string>
+  <!--Original value: Keep in memory-->
+  <string name="pref_keep_in_memory_title">Mantener en memoria</string>
+  <!--Original value: "Changing the layout of your Home screen will not affect apps' positions relative to each other"-->
+  <string name="pref_keep_layout_summary">"\"Cambiar el diseño de la pantalla de inicio no afectará las posiciones de las apps\""</string>
+  <!--Original value: Lock app positions-->
+  <string name="pref_keep_layout_title">"Bloquee las posiciones de aplicaciones"</string>
+  <!--Original value: Turning off this feature will improve drawing performance-->
+  <string name="pref_render_in_truecolor_summary">Si desactiva esta opción aumentará la velocidad del launcher</string>
+  <!--Original value: High quality graphics-->
+  <string name="pref_render_in_truecolor_title">Gráficos de alta calidad</string>
+  <!--Original value: Screen transition effects-->
+  <string name="pref_screen_transformation_type_title">Tipos de animaciones</string>
+  <!--Original value: Wallpaper alignment-->
+  <string name="pref_wallpaper_scroll_type_title">Desplazamiento de fondo de pantalla</string>
+  <!--Original value: General settings-->
+  <string name="preferences_general_title">Ajustes generales</string>
+  <!--Original value: Launcher settings-->
+  <string name="preferences_title">Ajustes MiuiHome</string>
+  <!--Original value: -->
+  <string name="process" />
+  <!--Original value: Screen will be reset to default layout.-->
+  <string name="reset_scene_prompt">La escena será reiniciada a la disposición predeterminada</string>
+  <!--Original value: Select-->
+  <string name="resource_select">"Seleccionar"</string>
+  <!--Original value: Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.-->
+  <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a activar, toque el hogar y el botón de encendido al mismo tiempo.</string>
+  <!--Original value: Navigation buttons enabled.-->
+  <string name="screen_button_enabled_message">"Botones de navegación habilitados."</string>
+  <!--Original value: Auto-rotate disabled.-->
+  <string name="screen_rotation_freeze_message">"Auto-rotación deshabilitado."</string>
+  <!--Original value: page %1$d, %2$d apps-->
+  <string name="scroll_tip_format_when_announce_accessibility">página %1$d, %2$d aplicaciones</string>
+  <!--Original value: Frame-->
+  <string name="select_frame">Marco</string>
+  <!--Original value: Photo-->
+  <string name="select_photo">Fotografía</string>
+  <!--Original value: Settings shortcut-->
+  <string name="settings_shortcut">"Acceso directo de configuración"</string>
+  <!--Original value: -->
+  <string name="sharedUserId" />
+  <!--Original value: Sort by name-->
+  <string name="sort_by_abc">Ordenar iconos por nombre</string>
+  <!--Original value: Sort by usage-->
+  <string name="sort_by_frequency">Ordenar iconos por uso</string>
+  <!--Original value: Auto-sort-->
+  <string name="sort_by_not_defined">Ordenar iconos por defecto</string>
+  <!--Original value: Failed to start-->
+  <string name="start_activity_failed">No se ha podido iniciar, inténtelo más tarde</string>
+  <!--Original value: Starting…-->
+  <string name="starting_preset_app">Iniciando</string>
+  <!--Original value: Access-->
+  <string name="status_bar_toggle_ac">"Acceso"</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity-->
+  <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+  <!--Original value: Auto-->
+  <string name="status_bar_toggle_auto_brightness">Auto-Brillo</string>
+  <!--Original value: BT-->
+  <string name="status_bar_toggle_bluetooth">BT</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity-->
+  <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
+  <!--Original value: Brightness-->
+  <string name="status_bar_toggle_brightness">"Brillo"</string>
+  <!--Original value: com.android.settings/com.android.settings.display.BrightnessActivity-->
+  <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
+  <!--Original value: Data-->
+  <string name="status_bar_toggle_data">"Datos"</string>
+  <!--Original value: com.android.phone/.Settings-->
+  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
+  <!--Original value: More-->
+  <string name="status_bar_toggle_divider">"Más"</string>
+  <!--Original value: com.android.systemui/.settings.StyleSettings-->
+  <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
+  <!--Original value: Car-->
+  <string name="status_bar_toggle_drive_mode">"Coche"</string>
+  <!--Original value: com.android.settings/com.android.settings.MiuiDriveModeSettings-->
+  <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
+  <!--Original value: Airplane-->
+  <string name="status_bar_toggle_flight_mode">"Avión"</string>
+  <!--Original value: com.android.settings/com.android.settings.MiuiSettings-->
+  <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.MiuiSettings</string>
+  <!--Original value: GPS-->
+  <string name="status_bar_toggle_gps">GPS</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$LocationSettingsActivity-->
+  <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
+  <!--Original value: Lock-->
+  <string name="status_bar_toggle_lock">Bloquear</string>
+  <!--Original value: Silent-->
+  <string name="status_bar_toggle_mute">Silencio</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$SoundSettingsActivity-->
+  <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+  <!--Original value: Network-->
+  <string name="status_bar_toggle_network_type">"Red"</string>
+  <!--Original value: com.android.phone/.MiuiPreferredNetworkTypeListPreference-->
+  <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
+  <!--Original value: Perform-->
+  <string name="status_bar_toggle_power_high">"Realizar"</string>
+  <!--Original value: Conserve-->
+  <string name="status_bar_toggle_power_low">"Conservar"</string>
+  <!--Original value: Normal-->
+  <string name="status_bar_toggle_power_mid">"Normal"</string>
+  <!--Original value: Power-->
+  <string name="status_bar_toggle_power_mode">Power</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$BatterySettingsActivity-->
+  <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
+  <!--Original value: Guest-->
+  <string name="status_bar_toggle_privacy_mode">"Invitado"</string>
+  <!--Original value: DND-->
+  <string name="status_bar_toggle_quiet_mode">DND</string>
+  <!--Original value: com.android.settings/.dndmode.DoNotDisturbModeActivity-->
+  <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
+  <!--Original value: Reboot-->
+  <string name="status_bar_toggle_reboot">"Reiniciar"</string>
+  <!--Original value: Ring-->
+  <string name="status_bar_toggle_ring">Timbre</string>
+  <!--Original value: Ringtone-->
+  <string name="status_bar_toggle_ringtone">"Tono"</string>
+  <!--Original value: Rotation-->
+  <string name="status_bar_toggle_rotate">"Rotación"</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$DisplaySettingsActivity-->
+  <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
+  <!--Original value: Disable-->
+  <string name="status_bar_toggle_screen_button">"Inhabilitar"</string>
+  <!--Original value: Screenshot-->
+  <string name="status_bar_toggle_screenshot">"Captura de pantalla"</string>
+  <!--Original value: Power-->
+  <string name="status_bar_toggle_shutdown">Power</string>
+  <!--Original value: Sync-->
+  <string name="status_bar_toggle_sync">"Sincroniza"</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity-->
+  <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+  <!--Original value: Sync-->
+  <string name="status_bar_toggle_sync_auto">"Sincroniza"</string>
+  <!--Original value: Sync-->
+  <string name="status_bar_toggle_sync_manual">"Sincroniza"</string>
+  <!--Original value: Syncing-->
+  <string name="status_bar_toggle_syncing">"Sincronización"</string>
+  <!--Original value: Torch-->
+  <string name="status_bar_toggle_torch">Linterna</string>
+  <!--Original value: Vibrate-->
+  <string name="status_bar_toggle_vibrate">"Vibrar"</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$SoundSettingsActivity-->
+  <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+  <!--Original value: WLAN-->
+  <string name="status_bar_toggle_wifi">WLAN</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$WifiSettingsActivity-->
+  <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
+  <!--Original value: WLAN-->
+  <string name="status_bar_toggle_wifi_ap">WLAN</string>
+  <!--Original value: com.android.settings/com.android.settings.Settings$TetherSettingsActivity-->
+  <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+  <!--Original value: Select folder-->
+  <string name="title_select_live_folder">Seleccionar carpeta</string>
+  <!--Original value: Select shortcut-->
+  <string name="title_select_shortcut">"Seleccione acceso directo"</string>
+  <!--Original value: Choose toggle-->
+  <string name="toggle_select_title">"Elija toggle"</string>
+  <!--Original value: Toggle-->
+  <string name="toggle_title">Toggle</string>
+  <!--Original value: Classic slide-->
+  <string name="transformation_type_classic">Clásico</string>
+  <!--Original value: Classic slide (no overshoot)-->
+  <string name="transformation_type_classic_no_overshoot">Clásico (sin rebote)</string>
+  <!--Original value: Crossfade-->
+  <string name="transformation_type_crossfade">Desvanecer</string>
+  <!--Original value: Cube-->
+  <string name="transformation_type_cube">Cubo 3D</string>
+  <!--Original value: Tumble-->
+  <string name="transformation_type_falldown">Rueda</string>
+  <!--Original value: Page-->
+  <string name="transformation_type_leftpage">Páginas</string>
+  <!--Original value: Rotate-->
+  <string name="transformation_type_rotate">Rotación</string>
+  <!--Original value: Cascade-->
+  <string name="transformation_type_stack">Cascada</string>
+  <!--Original value: Uninstall-->
+  <string name="uninstall">Desinstalar</string>
+  <!--Original value: -->
+  <string name="uninstall_body_format">¿Desinstalar la aplicación \"%s\"?</string>
+  <!--Original value: Uninstalling will remove all app data.-->
+  <string name="uninstall_dialog_message">"La desinstalación eliminará todos los datos de la aplicación."</string>
+  <!--Original value: Uninstall \"%s\"-->
+  <string name="uninstall_dialog_title_format">Desintalar \"%s\"</string>
+  <!--Original value: Unknown artist-->
+  <string name="unknown_artist_name">Artista Desconocido</string>
+  <!--Original value: Unnamed folder-->
+  <string name="unnamed_folder_name">Carpeta sin nombre</string>
+  <!--Original value: -->
+  <string name="upside_apps_title">Seleccionar aplicación</string>
+  <!--Original value: -->
+  <string name="upside_edit_bar_empty">Vacío</string>
+  <!--Original value: -->
+  <string name="upside_edit_bar_select_app">Seleccione App</string>
+  <!--Original value: -->
+  <string name="upside_edit_bottom_empty_tip">Pulse el rectángulo para editar</string>
+  <!--Original value: all-->
+  <string name="wallpaper_scrolling">todo</string>
+  <!--Original value: Editor-->
+  <string name="widget_favorite_contacts_edit">Editar</string>
+  <!--Original value: Favorite contacts-->
+  <string name="widget_favorite_contacts_label">Contactos Favoritos</string>
+  <!--Original value: Change size-->
+  <string name="widget_favorite_contacts_style">Tamaño</string>
+  <!--Original value: Music-->
+  <string name="widget_gadget_player">Música</string>
+  <!--Original value: Search-->
+  <string name="widget_global_search">Búsqueda Global</string>
+</resources>

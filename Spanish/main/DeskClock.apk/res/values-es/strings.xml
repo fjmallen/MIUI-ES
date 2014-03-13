@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: EEEE, MMMM d-->
+  <string name="full_wday_month_day_no_year">"EEEE d 'de' MMMM"</string>
+  <!--Original value: +%s-->
+  <string name="elapsed_time_format">(+%s)</string>
+  <!--Original value: Clock-->
+  <string name="app_label">Reloj</string>
+  <!--Original value: Alarm-->
+  <string name="alarm_list_title">Alarmas</string>
+  <!--Original value: Add alarm-->
+  <string name="add_alarm">Añadir alarma</string>
+  <!--Original value: Desk clock-->
+  <string name="menu_desk_clock">Reloj de escritorio</string>
+  <!--Original value: Edit alarm-->
+  <string name="edit_alarm">Editar alarma</string>
+  <!--Original value: Delete alarm-->
+  <string name="delete_alarm">Suprimir alarma</string>
+  <!--Original value: Turn alarm on-->
+  <string name="enable_alarm">Activar alarma</string>
+  <!--Original value: Turn alarm off-->
+  <string name="disable_alarm">Desactivar alarma</string>
+  <!--Original value: Delete this alarm?-->
+  <string name="delete_alarm_confirm">Suprimir esta alarma?</string>
+  <!--Original value: Show clock-->
+  <string name="show_clock">Mostrar reloj</string>
+  <!--Original value: Hide clock-->
+  <string name="hide_clock">Ocultar reloj</string>
+  <!--Original value: Set label-->
+  <string name="label">Etiqueta a mostrar</string>
+  <!--Original value: Alarm-->
+  <string name="default_label">Alarma</string>
+  <!--Original value: Set alarm-->
+  <string name="set_alarm">Establecer alarma</string>
+  <!--Original value: Vibrate-->
+  <string name="alarm_vibrate">Habilitar vibración</string>
+  <!--Original value: Repeat-->
+  <string name="alarm_repeat">Días</string>
+  <!--Original value: Ringtone-->
+  <string name="alert">Tono</string>
+  <!--Original value: Time-->
+  <string name="time">Hora</string>
+  <!--Original value: Dismiss-->
+  <string name="alarm_alert_dismiss_text">Descartar</string>
+  <!--Original value: Alarm silenced after %d minutes.-->
+  <string name="alarm_alert_alert_silenced">La alarma ha sido descartada tras %d minutos.</string>
+  <!--Original value: Timer silenced after %d minutes.-->
+  <string name="timer_alert_alert_silenced">"Timer silenciada después de %d minutos."</string>
+  <!--Original value: Snooze-->
+  <string name="alarm_alert_snooze_text">Posponer</string>
+  <!--Original value: Snoozing for %d minutes.-->
+  <string name="alarm_alert_snooze_set">Posponer %d minutos</string>
+  <!--Original value: 1 day-->
+  <string name="day">1 día</string>
+  <!--Original value: %s days-->
+  <string name="days">%s días</string>
+  <!--Original value: 1 hour-->
+  <string name="hour">1 hora</string>
+  <!--Original value: %s hours-->
+  <string name="hours">%s horas</string>
+  <!--Original value: 1 minute-->
+  <string name="minute">1 minuto</string>
+  <!--Original value: %s minutes-->
+  <string name="minutes">%s minutos</string>
+  <!--Original value: Everyday-->
+  <string name="every_day">Toda la semana</string>
+  <!--Original value: Legal workday-->
+  <string name="legal_workday">"Jornada de trabajo legal"</string>
+  <!--Original value: Once-->
+  <string name="never">Nunca</string>
+  <!--Original value: ". "-->
+  <string name="day_concat">", "</string>
+  <!--Original value: Choose a clock-->
+  <string name="clock_instructions">Elija un reloj</string>
+  <!--Original value: Analog clock-->
+  <string name="analog_gadget">Reloj analógico</string>
+  <!--Original value: Settings-->
+  <string name="settings">Ajustes</string>
+  <!--Original value: Alarm in silent mode-->
+  <string name="alarm_in_silent_mode_title">Ignorar modo silencio del sistema</string>
+  <!--Original value: Snooze duration-->
+  <string name="snooze_duration_title">"Repetición de alarmas"</string>
+  <!--Original value: Auto-silence-->
+  <string name="auto_silence_title">"Auto-silencio"</string>
+  <!--Original value: Alarms will silence after %d minutes-->
+  <string name="auto_silence_summary">"Las alarmas se desactivarán después de %d minutos"</string>
+  <!--Original value: Never-->
+  <string name="auto_silence_never">"Nunca"</string>
+  <!--Original value: Done-->
+  <string name="done">Listo</string>
+  <!--Original value: Revert-->
+  <string name="revert">Deshacer</string>
+  <!--Original value: Delete-->
+  <string name="delete">Eliminar</string>
+  <!--Original value: Alarm volume-->
+  <string name="alarm_volume_title">Volumen</string>
+  <!--Original value: Set alarm volume-->
+  <string name="alarm_volume_summary">Establecer el volumen de las alarmas</string>
+  <!--Original value: Silent-->
+  <string name="silent_alarm_summary">Silencio</string>
+  <!--Original value: Snooze or dismiss alarm.-->
+  <string name="alarm_notify_text">Elige si deseas posponer o descartar esta alarma.</string>
+  <!--Original value: %s snooze-->
+  <string name="alarm_notify_snooze_label">%s (pospuesta)</string>
+  <!--Original value: Tap to cancel %s-->
+  <string name="alarm_notify_snooze_text">La alarma sonará a las %s. Seleccione la opción para cancelarla.</string>
+  <!--Original value: "Snooze has been delayed，%s snooze again.
+You can also cancel this alarm."-->
+  <string name="snooze_confirm_message">"\"Snooze ha sido retrasado %s dormir de nuevo.\n"</string>
+  <!--Original value: Got it-->
+  <string name="snooze_confirm_ok">"Lo tengo"</string>
+  <!--Original value: Cancel snooze-->
+  <string name="snooze_confirm_cancel">"Cancelar snooze"</string>
+  <!--Original value: Volume buttons-->
+  <string name="volume_button_setting_title">Botones de volumen</string>
+  <!--Original value: Button effect-->
+  <string name="volume_button_dialog_title">Establecer función</string>
+  <!--Original value: "Set volume buttons' function during alarm"-->
+  <string name="volume_button_setting_summary">Establecer la función de los botones de volumen durante una alarma</string>
+  <!--Original value: Set default ringtone-->
+  <string name="default_ringtone_setting_title">Establecer tono por defecto</string>
+  <!--Original value: Alarms-->
+  <string name="alarm_button_description">Alarmas</string>
+  <!--Original value: Gallery-->
+  <string name="gallery_button_description">Galería</string>
+  <!--Original value: Music-->
+  <string name="music_button_description">Música</string>
+  <!--Original value: Dim-->
+  <string name="nightmode_button_description">Atenuar</string>
+  <!--Original value: Launcher-->
+  <string name="home_button_description">Launcher</string>
+  <!--Original value: Clock Display-->
+  <string name="desk_clock_button_description">Pantalla de reloj</string>
+  <!--Original value: %d%%-->
+  <string name="battery_charging_level">%d %%</string>
+  <!--Original value: "Weather information isn't available right now."-->
+  <string name="weather_fetch_failure">La información meteorológica no está disponible.</string>
+  <!--Original value: Dock settings-->
+  <string name="menu_item_dock_settings">Ajustes de la base</string>
+  <!--Original value: Sound playback service for alarms set in clock.-->
+  <string name="alarm_klaxon_service_desc">Servicio de reproduccion de sonido en alarmas para DeskClock.</string>
+  <!--Original value: Loading ringtone…-->
+  <string name="loading_ringtone">Cargando tono...</string>
+  <!--Original value: Set alarm-->
+  <string name="control_set_alarm">Establecer alarma</string>
+  <!--Original value: Alarm set: %s-->
+  <string name="control_set_alarm_with_existing">Alarma establecida: %s</string>
+  <!--Original value: Settings-->
+  <string name="common_settings">Ajustes generales</string>
+  <!--Original value: Alarm settings-->
+  <string name="alarm_settings">Ajustes de alarma</string>
+  <!--Original value: Clock-->
+  <string name="worldclock_title">Reloj mundial</string>
+  <!--Original value: Stopwatch-->
+  <string name="stopwatch_title">Cronómetro</string>
+  <!--Original value: Timer-->
+  <string name="timer_title">Temporizador</string>
+  <!--Original value: Add clock-->
+  <string name="menu_add_worldclock">Añadir zona horaria</string>
+  <!--Original value: Edit world clock-->
+  <string name="menu_worldclock_edit">Suprimir zona horaria</string>
+  <!--Original value: Edit alarm clock-->
+  <string name="menu_alarmclock_edit">Suprimir alarma</string>
+  <!--Original value: Delete-->
+  <string name="menu_delete">Borrar</string>
+  <!--Original value: System time-->
+  <string name="menu_edit_systemtime">Modificar fecha y hora de sistema</string>
+  <!--Original value: Delete timezone-->
+  <string name="delete_timezone_title">Borrar zona horaria</string>
+  <!--Original value: Are you sure you want to delete the selected timezone(s)?-->
+  <string name="delelte_selected_timezone">Esta seguro de borrar las zonas horarias seleccionadas?</string>
+  <!--Original value: Processing data…-->
+  <string name="wait_when_operating_data_message">Procesando datos, por favor espere.</string>
+  <!--Original value: "You're already displaying that timezone"-->
+  <string name="timezone_exist_error_message">Error al añadir la zona horaria. Esta zona horaria ya existe, por favor vuelva a intentarlo.</string>
+  <!--Original value: Search for a city to add to world clock-->
+  <string name="timezone_search_hint">Buscar una ciudad para añadirla al reloj mundial</string>
+  <!--Original value: Disabled-->
+  <string name="alarm_disabled">Deshabilitado</string>
+  <!--Original value: Ascending volume-->
+  <string name="alarm_ascending_mode_title">Tono ascendente</string>
+  <!--Original value: Alarm volume ascends gradually to selected level-->
+  <string name="alarm_ascending_mode_summary">Si activa esta opción, el volumen del tono de la alarma será ascendente</string>
+  <!--Original value: Close alarm-->
+  <string name="close_alarm">"Cerrar alarma"</string>
+  <!--Original value: Start-->
+  <string name="start">Iniciar</string>
+  <!--Original value: Pause-->
+  <string name="pause">Pausar</string>
+  <!--Original value: Reset-->
+  <string name="reset">Reset</string>
+  <!--Original value: Lap-->
+  <string name="lap">Lap</string>
+  <!--Original value: Continue-->
+  <string name="timer_continue">Continuar</string>
+  <!--Original value: %d hours-->
+  <string name="elapsed_hour">%d horas</string>
+  <!--Original value: No world clocks-->
+  <string name="worldclock_empty_text">Sin relojes mundiales</string>
+  <!--Original value: No alarms-->
+  <string name="alarmclock_empty_text">Sin alarmas</string>
+  <!--Original value: No laps-->
+  <string name="stopwatch_lap_empty_text">"No hay vueltas"</string>
+  <!--Original value: Got it-->
+  <string name="timer_got_it">Lo tengo</string>
+  <!--Original value: "Time's up!"-->
+  <string name="timer_start_alarm">Temporizador</string>
+  <!--Original value: Discard changes?-->
+  <string name="dialog_confirm_abort">Deseas descartar tus cambios?</string>
+  <!--Original value: Discard-->
+  <string name="confirm_abort">"Descartar"</string>
+  <!--Original value: Ringtone-->
+  <string name="remind_ringtone">Tono de aviso</string>
+  <!--Original value: Keep screen on-->
+  <string name="keep_screen_on">Pantalla encendida</string>
+  <!--Original value: Start up-->
+  <string name="start_up">Iniciar</string>
+  <!--Original value: Cancel-->
+  <string name="cancel">Detener</string>
+  <!--Original value: M-->
+  <string name="timer_minute">Minuto(s)</string>
+  <!--Original value: H-->
+  <string name="timer_hour">Hora(s)</string>
+  <!--Original value: %1$d hours and %2$d minutes-->
+  <string name="timer_message_with_hour">Temporizador %1$d horas y %2$d minutos</string>
+  <!--Original value: %1$d minutes-->
+  <string name="timer_message">Temporizador para %1$d minutos</string>
+  <!--Original value: Slide clockwise-->
+  <string name="timer_tutorial">"Deslizar en
+sentido horario"</string>
+  <!--Original value: Shutdown alarm-->
+  <string name="shutdown_alarm_title">"Alarma de apagado"</string>
+  <!--Original value: Shutdown alarm is on-->
+  <string name="shutdown_alarm_enable_summary">"Alarma de la parada es en"</string>
+  <!--Original value: Shutdown alarm is off-->
+  <string name="shutdown_alarm_disable_summary">"Alarma de apagado está apagado"</string>
+  <!--Original value: Workday alarm-->
+  <string name="workday_alarm_clock">"Alarma de Jornada"</string>
+  <!--Original value: Weekend alarm-->
+  <string name="weekend_alarm_clock">"Alarma de fin de semana"</string>
+  <!--Original value: Settings-->
+  <string name="system_time_setting">"Configuración"</string>
+  <!--Original value: Lap-->
+  <string name="lap_num">"Vuelta"</string>
+  <!--Original value: Hr-->
+  <string name="hour_unit">"Hr"</string>
+  <!--Original value: M-->
+  <string name="minute_unit">"M"</string>
+  <!--Original value: Alarm label-->
+  <string name="alarm_label_hint">"Etiqueta de alarma"</string>
+  <!--Original value: Data expired (Alarm rings from Mon to Fri)-->
+  <string name="legal_workday_invalidate">"Datos de vencimiento (alarma suena de lunes a viernes)"</string>
+  <!--Original value: (Data expired. Update in Settings)-->
+  <string name="legal_workday_invalidate_message">"(Datos expiró. Update en Configuración)"</string>
+  <!--Original value: " (Alarm off during holidays)"-->
+  <string name="legal_workday_message">"\"(Alarma desactivada durante las vacaciones)\""</string>
+  <!--Original value: Set default alarm sound-->
+  <string name="default_alarm_alert">"Sonido de alarma Set default"</string>
+  <!--Original value: Default ringtone-->
+  <string name="default_alarm_title">"Tono por defecto"</string>
+  <!--Original value: Default ringtone-->
+  <string name="alarm_alert">"Tono por defecto"</string>
+  <!--Original value: Alarm Screen and ringtone-->
+  <string name="alarm_screen">"Pantalla de alarma y tonos de llamada"</string>
+  <string name="alarm_duration">Intérvalos de alarma (min)</string>
+    <string name="alarm_duration_title">Intérvalos y repeticiones</string>
+    <string name="alarm_count">Repetición de alarma (veces)</string>
+    <string name="alarm_duration_summary">La alarma sonará a intérvalos de %d minutos</string>
+    <string name="alarm_count_summary">" y se detendrá después de sonar %d veces"</string>
+    <string name="alarm_count_never_summary">" y no se dentendrá nunca"</string>
+</resources>

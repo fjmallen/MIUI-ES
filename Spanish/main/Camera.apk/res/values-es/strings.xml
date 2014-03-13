@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: Camera error-->
+  <string name="camera_error_title">Error de la cámara</string>
+  <!--Original value: "Can't connect to the camera."-->
+  <string name="cannot_connect_camera">"No se puede conectar con la cámara."</string>
+  <!--Original value: Camera has been disabled because of security policies.-->
+  <string name="camera_disabled">La cámara ha sido deshabilitada por póliticas de seguridad.</string>
+  <!--Original value: Camera-->
+  <string name="camera_label">Cámara</string>
+  <!--Original value: Camcorder-->
+  <string name="video_camera_label">Codificador</string>
+  <!--Original value: Please wait…-->
+  <string name="wait">Por favor espere…</string>
+  <!--Original value: Insert an SD card before using the camera.-->
+  <string name="no_storage">Inserta una tarjeta SD antes de usar la cámara.</string>
+  <!--Original value: Your SD card is full.-->
+  <string name="not_enough_space">La tarjeta SD está llena.</string>
+  <!--Original value: Preparing SD card…-->
+  <string name="preparing_sd">Preparando tarjeta SD…</string>
+  <!--Original value: "Couldn't access SD card."-->
+  <string name="access_sd_fail">"No se ha podido acceder a la tarjeta SD."</string>
+  <!--Original value: "Couldn't access USB storage."-->
+  <string name="access_phone_fail_no_product">"\"No se puede acceder al almacenamiento USB.\""</string>
+  <!--Original value: "Couldn't access SD card."-->
+  <string name="access_sd_fail_no_product">"\"No se puede acceder a la tarjeta SD.\""</string>
+  <!--Original value: Restore defaults-->
+  <string name="confirm_restore_title">Restaurar valores predeterminados</string>
+  <!--Original value: Restore Camera default settings?-->
+  <string name="confirm_restore_message">¿Restaurar a valores predeterminados?</string>
+  <!--Original value: Switch mode-->
+  <string name="confirm_change_mode_title">Cambiar modo</string>
+  <!--Original value: Switch to professional mode immediately ?-->
+  <string name="confirm_change_to_expert_mode_message">¿Cambiar a modo Profesional?</string>
+  <!--Original value: Switch to simple mode immediately ?-->
+  <string name="confirm_change_to_simple_mode_message">¿Cambiar a modo Simple?</string>
+  <!--Original value: Record location in captured photos?-->
+  <string name="confirm_location_message">El W8s puede guardar información geolocalizada, ¿quieres abrir los servicios de geolocalización?</string>
+  <!--Original value: Record-->
+  <string name="open">Abrir</string>
+  <!--Original value: "Don't record"-->
+  <string name="skip">Saltar</string>
+  <!--Original value: CANCEL-->
+  <string name="review_cancel">CANCELAR</string>
+  <!--Original value: Select camera-->
+  <string name="pref_camera_id_title">Seleccionar cámara</string>
+  <!--Original value: 0-->
+  <string name="pref_camera_id_default">"0"</string>
+  <!--Original value: Store Location-->
+  <string name="pref_camera_recordlocation_title">Ubicación de guardado</string>
+  <!--Original value: false-->
+  <string name="pref_camera_recordlocation_default">"falso"</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_recordlocation_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_recordlocation_entry_on">On</string>
+  <!--Original value: Camera Sound-->
+  <string name="pref_camera_sound_title">Sonido de la cámara</string>
+  <!--Original value: on-->
+  <string name="pref_camera_sound_default">"en"</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_sound_title_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_sound_title_entry_on">On</string>
+  <!--Original value: off-->
+  <string name="pref_camera_sound_entry_off">off</string>
+  <!--Original value: on-->
+  <string name="pref_camera_sound_entry_on">on</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_auto_focus_title_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_auto_focus_title_entry_on">On</string>
+  <!--Original value: Front camera mirror-->
+  <string name="pref_captrue_mirror_title">"Frente espejo de la cámara"</string>
+  <!--Original value: Off-->
+  <string name="pref_captrue_mirror_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_captrue_mirror_entry_on">On</string>
+  <!--Original value: off-->
+  <string name="pref_captrue_mirror_default">off</string>
+  <!--Original value: off-->
+  <string name="pref_captrue_mirror_value_off">off</string>
+  <!--Original value: on-->
+  <string name="pref_captrue_mirror_value_on">on</string>
+  <!--Original value: Video quality-->
+  <string name="pref_video_quality_title">Calidad de vídeo</string>
+  <!--Original value: 10-->
+  <string name="pref_video_quality_default">"10"</string>
+  <!--Original value: FULL HD-->
+  <string name="pref_video_quality_entry_1080p">1080P</string>
+  <!--Original value: HD-->
+  <string name="pref_video_quality_entry_720p">HD 720P</string>
+  <!--Original value: SD-->
+  <string name="pref_video_quality_entry_480p">SD 480p</string>
+  <!--Original value: FWVGA-->
+  <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+  <!--Original value: WVGA-->
+  <string name="pref_video_quality_entry_wvga">WVGA</string>
+  <!--Original value: VGA-->
+  <string name="pref_video_quality_entry_vga">VGA</string>
+  <!--Original value: WQVGA-->
+  <string name="pref_video_quality_entry_wqvga">WQVGA</string>
+  <!--Original value: Time lapse interval-->
+  <string name="pref_video_time_lapse_frame_interval_title">Intervalo de tiempo</string>
+  <!--Original value: 120-->
+  <string name="pref_video_time_lapse_frame_interval_default">"120"</string>
+  <!--Original value: Interval of 0.06 seconds(2 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_2">2x</string>
+  <!--Original value: Interval of 0.12 seconds(4 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_4">4x</string>
+  <!--Original value: Interval of 0.3 seconds(10 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_10">10x</string>
+  <!--Original value: Interval of 1 second(30 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_30">"Intervalo de 1 segundo (30 veces)"</string>
+  <!--Original value: Interval of 2 seconds(60 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_60">"Intervalo de 2 segundos (60 veces)"</string>
+  <!--Original value: Interval of 3 seconds(90 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_90">"Intervalo de 3 segundos (90 veces)"</string>
+  <!--Original value: Interval of 4 seconds(120 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_120">"Intervalo de 4 segundos (120 veces)"</string>
+  <!--Original value: Interval of 5 seconds(150 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_150">"Intervalo de 5 segundos (150 veces)"</string>
+  <!--Original value: Interval of 8 seconds(240 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_240">"Intervalo de 8 segundos (240 veces)"</string>
+  <!--Original value: Interval of 10 seconds(300 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_300">"Intervalo de 10 segundos (300 veces)"</string>
+  <!--Original value: Interval of 15 seconds(450 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_450">"Intervalo de 15 segundos (450 veces)"</string>
+  <!--Original value: Interval of 30 seconds(900 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_900">"Intervalo de 30 segundos (900 veces)"</string>
+  <!--Original value: Interval of 60 seconds(1800 times)-->
+  <string name="pref_video_time_lapse_frame_interval_entry_1800">"Intervalo de 60 segundos (1800 veces)"</string>
+  <!--Original value: Camera settings-->
+  <string name="pref_camera_settings_category">Opciones de la cámara</string>
+  <!--Original value: Camcorder settings-->
+  <string name="pref_camcorder_settings_category">Opciones del codificador</string>
+  <!--Original value: Picture size-->
+  <string name="pref_camera_picturesize_title">Tamaño de imágen</string>
+  <!--Original value: Camera frame-->
+  <string name="pref_camera_picturesize_title_simple_mode">"Marco de la cámara"</string>
+  <!--Original value: Standard 4:3-->
+  <string name="pref_camera_picturesize_entry_standard">"Estándar 4:3"</string>
+  <!--Original value: Full screen 16:9-->
+  <string name="pref_camera_picturesize_entry_full_screen">"Pantalla completa 16:9"</string>
+  <!--Original value: 13M(4096x3072)-->
+  <string name="pref_camera_picturesize_professional_entry_4096x3072">"13M (4096x3072)"</string>
+  <!--Original value: 10M(4096x2368)-->
+  <string name="pref_camera_picturesize_professional_entry_4096x2368">"10M (4096x2368)"</string>
+  <!--Original value: 8M(3264X2448)-->
+  <string name="pref_camera_picturesize_professional_entry_3200x2400">8M (3264X2448)</string>
+  <!--Original value: 8M(3600X2160)-->
+  <string name="pref_camera_picturesize_professional_entry_3600x2160">"8M (3600X2160)"</string>
+  <!--Original value: 6M(3264x1840)-->
+  <string name="pref_camera_picturesize_professional_entry_3200x1800">6M (3264x1836)</string>
+  <!--Original value: 6M(3264x1836)-->
+  <string name="pref_camera_picturesize_professional_entry_3264x1836">"6M (3264x1836)"</string>
+  <!--Original value: 6M(3328x1872)-->
+  <string name="pref_camera_picturesize_professional_entry_3328x1872">"6M (3328x1872)"</string>
+  <!--Original value: 5M(2592x1944)-->
+  <string name="pref_camera_picturesize_professional_entry_2592x1944">5M (2592x1944)</string>
+  <!--Original value: 5M(2560x1920)-->
+  <string name="pref_camera_picturesize_professional_entry_2560x1920">"5M (2560x1920)"</string>
+  <!--Original value: 4M(2560x1440)-->
+  <string name="pref_camera_picturesize_professional_entry_2560x1440">"4M (2560x1440)"</string>
+  <!--Original value: 3M(2048x1536)-->
+  <string name="pref_camera_picturesize_professional_entry_2048x1536">3M (2048x1536)</string>
+  <!--Original value: 2M(1920x1088)-->
+  <string name="pref_camera_picturesize_professional_entry_1920x1080">2M (1920x1088)</string>
+  <!--Original value: 2M(1600x1200)-->
+  <string name="pref_camera_picturesize_professional_entry_1600x1200">2M (1600x1200)</string>
+  <!--Original value: 1.3M(1280x960)-->
+  <string name="pref_camera_picturesize_professional_entry_1280x960">"1.3M (1280x960)"</string>
+  <!--Original value: 0.9M(1280x720)-->
+  <string name="pref_camera_picturesize_professional_entry_1280x720">0.9M (1280x720)</string>
+  <!--Original value: 0.8M(1024x768)-->
+  <string name="pref_camera_picturesize_professional_entry_1024x768">0.8M (1024x768)</string>
+  <!--Original value: fine-->
+  <string name="pref_camera_jpegquality_default">fine</string>
+  <!--Original value: 3600X2160-->
+  <string name="pref_camera_picture_size_default">"3600X2160"</string>
+  <!--Original value: 1280x720-->
+  <string name="pref_camera_front_picture_size_default">"1280x720"</string>
+  <!--Original value: jpeg-->
+  <string name="pref_camera_picture_format_default">jpeg</string>
+  <!--Original value: Select Picture Format-->
+  <string name="pref_camera_picture_format_title">Seleccionar formato de imágen</string>
+  <!--Original value: Jpeg-->
+  <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
+  <!--Original value: Raw-->
+  <string name="pref_camera_picture_format_entry_raw">Raw</string>
+  <!--Original value: jpeg-->
+  <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
+  <!--Original value: raw-->
+  <string name="pref_camera_picture_format_value_raw">raw</string>
+  <!--Original value: Picture quality-->
+  <string name="pref_camera_jpegquality_title">Calidad de imágen</string>
+  <!--Original value: Super fine-->
+  <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
+  <!--Original value: Fine-->
+  <string name="pref_camera_jpegquality_entry_fine">Fine</string>
+  <!--Original value: Standard-->
+  <string name="pref_camera_jpegquality_entry_normal">Normal</string>
+  <!--Original value: disable-->
+  <string name="pref_camera_histogram_default">"inhabilitar"</string>
+  <!--Original value: Histogram-->
+  <string name="pref_camera_histogram_title">Histograma</string>
+  <!--Original value: Enable-->
+  <string name="pref_camera_histogram_entry_enable">Habilitar</string>
+  <!--Original value: Disable-->
+  <string name="pref_camera_histogram_entry_disable">Deshabilitar</string>
+  <!--Original value: enable-->
+  <string name="pref_camera_histogram_value_enable">"permitir"</string>
+  <!--Original value: disable-->
+  <string name="pref_camera_histogram_value_disable">"inhabilitar"</string>
+  <!--Original value: Focus mode-->
+  <string name="pref_camera_focusmode_title">Modo enfoque</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_focusmode_entry_auto">Auto</string>
+  <!--Original value: Standard-->
+  <string name="pref_camera_focusmode_entry_normal">Normal</string>
+  <!--Original value: Infinity-->
+  <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
+  <!--Original value: Macro-->
+  <string name="pref_camera_focusmode_entry_macro">Macro</string>
+  <!--Original value: CAF-->
+  <string name="pref_camera_focusmode_entry_continuous">CAF</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_focusmode_value_default">auto</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_flashmode_default">auto</string>
+  <!--Original value: off-->
+  <string name="pref_camera_skin_beautify_default">off</string>
+  <!--Original value: no_flash-->
+  <string name="pref_camera_flashmode_no_flash">sin_flash</string>
+  <!--Original value: Flash mode-->
+  <string name="pref_camera_flashmode_title">Modo del Flash</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_flashmode_entry_auto">Auto</string>
+  <!--Original value: On-->
+  <string name="pref_camera_flashmode_entry_on">On</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_flashmode_entry_off">Off</string>
+  <!--Original value: off-->
+  <string name="pref_camera_video_flashmode_default">off</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_whitebalance_default">auto</string>
+  <!--Original value: White balance-->
+  <string name="pref_camera_whitebalance_title">Balance de blancos</string>
+  <!--Original value: White Balance K Value-->
+  <string name="pref_camera_whitebalance_k_value_title">Valor K balance de blancos</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
+  <!--Original value: Incandescent-->
+  <string name="pref_camera_whitebalance_entry_incandescent">Incandescente</string>
+  <!--Original value: Daylight-->
+  <string name="pref_camera_whitebalance_entry_daylight">Luz natural</string>
+  <!--Original value: Fluorescent-->
+  <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescente</string>
+  <!--Original value: Cloudy-->
+  <string name="pref_camera_whitebalance_entry_cloudy">Nublado</string>
+  <!--Original value: none-->
+  <string name="pref_camera_coloreffect_default">"ninguno"</string>
+  <!--Original value: Color effect-->
+  <string name="pref_camera_coloreffect_title">Efecto de color</string>
+  <!--Original value: Standard-->
+  <string name="pref_camera_coloreffect_entry_none">Ninguno</string>
+  <!--Original value: Mono-->
+  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <!--Original value: Sepia-->
+  <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
+  <!--Original value: Negative-->
+  <string name="pref_camera_coloreffect_entry_negative">Negativo</string>
+  <!--Original value: Posterize-->
+  <string name="pref_camera_coloreffect_entry_posterize">Posteririzar</string>
+  <!--Original value: Aqua-->
+  <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
+  <!--Original value: Blackboard-->
+  <string name="pref_camera_coloreffect_entry_blackboard">Blackboard</string>
+  <!--Original value: Whiteboard-->
+  <string name="pref_camera_coloreffect_entry_whiteboard">Whiteboard</string>
+  <!--Original value: Sepia blue-->
+  <string name="pref_camera_coloreffect_entry_sepia_blue">Sepia blue</string>
+  <!--Original value: touch-on-->
+  <string name="pref_camera_touchafaec_default">"tocar-en"</string>
+  <!--Original value: Touch AF/AEC-->
+  <string name="pref_camera_touchafaec_title">Táctil AF/AEC</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_touchafaec_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_touchafaec_entry_on">On</string>
+  <!--Original value: Low-->
+  <string name="pref_camera_sharpness_entry_low">"Bajo"</string>
+  <!--Original value: Middle(Default)-->
+  <string name="pref_camera_sharpness_entry_middle">"Medio (predeterminado)"</string>
+  <!--Original value: High-->
+  <string name="pref_camera_sharpness_entry_high">"Alto"</string>
+  <!--Original value: Low-->
+  <string name="pref_camera_contrast_entry_low">"Bajo"</string>
+  <!--Original value: Middle(Default)-->
+  <string name="pref_camera_contrast_entry_middle">"Medio (predeterminado)"</string>
+  <!--Original value: High-->
+  <string name="pref_camera_contrast_entry_high">"Alto"</string>
+  <!--Original value: Low-->
+  <string name="pref_camera_saturation_entry_low">"Bajo"</string>
+  <!--Original value: Middle-->
+  <string name="pref_camera_saturation_entry_middle">"Medio"</string>
+  <!--Original value: High-->
+  <string name="pref_camera_saturation_entry_high">"Alto"</string>
+  <!--Original value: (Default)-->
+  <string name="pref_camera_default_suffix">"(Predeterminado)"</string>
+  <!--Original value: middle-->
+  <string name="pref_camera_sharpness_default">"medio"</string>
+  <!--Original value: Sharpness-->
+  <string name="pref_camera_sharpness_title">Nitidez</string>
+  <!--Original value: middle-->
+  <string name="pref_camera_contrast_default">"medio"</string>
+  <!--Original value: Contrast-->
+  <string name="pref_camera_contrast_title">Contraste</string>
+  <!--Original value: middle-->
+  <string name="pref_camera_saturation_default">"medio"</string>
+  <!--Original value: Saturation-->
+  <string name="pref_camera_saturation_title">Saturación</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_scenemode_default">"auto"</string>
+  <!--Original value: Scene mode-->
+  <string name="pref_camera_scenemode_title">Modo escena</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_scenemode_entry_off">Off</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_scenemode_entry_auto">Auto</string>
+  <!--Original value: Portrait-->
+  <string name="pref_camera_scenemode_entry_portrait">Retrato</string>
+  <!--Original value: Landscape-->
+  <string name="pref_camera_scenemode_entry_landscape">Paisaje</string>
+  <!--Original value: Night-->
+  <string name="pref_camera_scenemode_entry_night">Noche</string>
+  <!--Original value: Night Portrait-->
+  <string name="pref_camera_scenemode_entry_night_portrait">Retrato nocturno</string>
+  <!--Original value: Beach-->
+  <string name="pref_camera_scenemode_entry_beach">Playa</string>
+  <!--Original value: Snow-->
+  <string name="pref_camera_scenemode_entry_snow">Nieve</string>
+  <!--Original value: Sunset-->
+  <string name="pref_camera_scenemode_entry_sunset">Puesta de sol</string>
+  <!--Original value: Fireworks-->
+  <string name="pref_camera_scenemode_entry_fireworks">Fuegos artificiales</string>
+  <!--Original value: Sports-->
+  <string name="pref_camera_scenemode_entry_sports">Deportes</string>
+  <!--Original value: Backlight-->
+  <string name="pref_camera_scenemode_entry_backlight">Retroiluminación</string>
+  <!--Original value: Flowers-->
+  <string name="pref_camera_scenemode_entry_flowers">Flores</string>
+  <!--Original value: off-->
+  <string name="pref_camera_scenedetect_default">off</string>
+  <!--Original value: Auto Scene Detection-->
+  <string name="pref_camera_scenedetect_title">Detección de escena automática</string>
+  <!--Original value: Not selectable in scene mode.-->
+  <string name="not_selectable_in_scene_mode">No seleccionable en modo escena.</string>
+  <!--Original value: Exposure-->
+  <string name="pref_exposure_title">Exposición</string>
+  <!--Original value: 0-->
+  <string name="pref_exposure_default">"0"</string>
+  <!--Original value: Wavelet Denoise Mode-->
+  <string name="pref_camera_denoise_title">Modo Wavelet Denoise</string>
+  <!--Original value: denoise-on-->
+  <string name="pref_camera_denoise_default">"eliminación de ruido-en"</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_iso_default">"auto"</string>
+  <!--Original value: Select ISO-->
+  <string name="pref_camera_iso_title">Seleccionar ISO</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_iso_entry_auto">Auto</string>
+  <!--Original value: ISO100-->
+  <string name="pref_camera_iso_entry_iso100">ISO100</string>
+  <!--Original value: ISO200-->
+  <string name="pref_camera_iso_entry_iso200">ISO200</string>
+  <!--Original value: ISO400-->
+  <string name="pref_camera_iso_entry_iso400">ISO400</string>
+  <!--Original value: ISO800-->
+  <string name="pref_camera_iso_entry_iso800">ISO800</string>
+  <!--Original value: ISO1600-->
+  <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
+  <!--Original value: ISO3200-->
+  <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_iso_value_auto">"auto"</string>
+  <!--Original value: 100-->
+  <string name="pref_camera_iso_value_iso100">"100"</string>
+  <!--Original value: 200-->
+  <string name="pref_camera_iso_value_iso200">"200"</string>
+  <!--Original value: 400-->
+  <string name="pref_camera_iso_value_iso400">"400"</string>
+  <!--Original value: 800-->
+  <string name="pref_camera_iso_value_iso800">"800"</string>
+  <!--Original value: 1600-->
+  <string name="pref_camera_iso_value_iso1600">"1600"</string>
+  <!--Original value: 3200-->
+  <string name="pref_camera_iso_value_iso3200">"3200"</string>
+  <!--Original value: off-->
+  <string name="pref_camera_preview_entry_off">off</string>
+  <!--Original value: 1 second-->
+  <string name="pref_camera_preview_entry_1000">1 segundo</string>
+  <!--Original value: 2 seconds-->
+  <string name="pref_camera_preview_entry_2000">2 segundos</string>
+  <!--Original value: 5 seconds-->
+  <string name="pref_camera_preview_entry_5000">5 segundos</string>
+  <!--Original value: off-->
+  <string name="pref_camera_preview_value_off">off</string>
+  <!--Original value: 1000-->
+  <string name="pref_camera_preview_value_1000">"1000"</string>
+  <!--Original value: 2000-->
+  <string name="pref_camera_preview_value_2000">"2000"</string>
+  <!--Original value: 5000-->
+  <string name="pref_camera_preview_value_5000">"5000"</string>
+  <!--Original value: Anti Banding-->
+  <string name="pref_camera_antibanding_title">Anti Bandas</string>
+  <!--Original value: 50hz-->
+  <string name="pref_camera_antibanding_default">"50hz"</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_antibanding_entry_0">Off</string>
+  <!--Original value: 50 Hz-->
+  <string name="pref_camera_antibanding_entry_1">50 Hz</string>
+  <!--Original value: 60 Hz-->
+  <string name="pref_camera_antibanding_entry_2">60 Hz</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_antibanding_entry_3">Auto</string>
+  <!--Original value: OK-->
+  <string name="dialog_ok">OK</string>
+  <!--Original value: Your SD card is running out of space. Delete some images or other files.-->
+  <string name="spaceIsLow_content">Tu tarjeta SD se está quedando sin espacio. Cambia las opciones de calidad o elimina algunas imagenes u otros archivos.</string>
+  <!--Original value: "'IMG'_yyyyMMdd_HHmmss"-->
+  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <!--Original value: "'VID'_yyyyMMdd_HHmmss"-->
+  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+  <!--Original value: "'PANO'_yyyyMMdd_HHmmss"-->
+  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <!--Original value: Size limit reached.-->
+  <string name="video_reach_size_limit">Tamaño limite alcanzado.</string>
+  <!--Original value: 90-->
+  <string name="pref_camera_hfr_default">"90"</string>
+  <!--Original value: High frame rate (slow motion)-->
+  <string name="pref_camera_hfr_title">Vídeo FrameRate alto</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_hfr_entry_off">Off</string>
+  <!--Original value: 60-->
+  <string name="pref_camera_hfr_entry_2x">60</string>
+  <!--Original value: 90-->
+  <string name="pref_camera_hfr_entry_3x">90</string>
+  <!--Original value: 120-->
+  <string name="pref_camera_hfr_entry_4x">120</string>
+  <!--Original value: off-->
+  <string name="pref_camera_hfr_value_off">off</string>
+  <!--Original value: 60-->
+  <string name="pref_camera_hfr_value_2x">"60"</string>
+  <!--Original value: 90-->
+  <string name="pref_camera_hfr_value_3x">"90"</string>
+  <!--Original value: 120-->
+  <string name="pref_camera_hfr_value_4x">"120"</string>
+  <!--Original value: Video Capture Speed-->
+  <string name="pref_video_speed_title">Velocidad del vídeo</string>
+  <!--Original value: normal-->
+  <string name="pref_video_speed_default">"normal"</string>
+  <!--Original value: Standard-->
+  <string name="pref_video_speed_entry_normal">normal</string>
+  <!--Original value: Fast-->
+  <string name="pref_video_speed_entry_fast">rápido</string>
+  <!--Original value: Slow-->
+  <string name="pref_video_speed_entry_slow">lento</string>
+  <!--Original value: normal-->
+  <string name="pref_video_speed_value_normal">"normal"</string>
+  <!--Original value: fast-->
+  <string name="pref_video_speed_value_fast">"rápido"</string>
+  <!--Original value: slow-->
+  <string name="pref_video_speed_value_slow">"lento"</string>
+  <!--Original value: Too fast-->
+  <string name="pano_too_fast_prompt">Demasiado rápido</string>
+  <!--Original value: Press shutter button to capture panorama photo.-->
+  <string name="pano_how_to_use_prompt">Pulsar el disparador para comenzar la panorámica</string>
+  <!--Original value: Move the device smoothly-->
+  <string name="pano_how_to_use_prompt_to_move">Cuando dispares, trata de mantener el teléfono firme</string>
+  <!--Original value: Continue moving the device-->
+  <string name="pano_how_to_use_prompt_go_on_moving">Mantener firme mientras se mueve</string>
+  <!--Original value: Preparing panorama-->
+  <string name="pano_dialog_prepare_preview">Preparando panorámica</string>
+  <!--Original value: Waiting for previous panorama to finish-->
+  <string name="pano_dialog_waiting_previous">Esperando a que la panorámica anterior finalice</string>
+  <!--Original value: "Couldn't save panorama."-->
+  <string name="pano_dialog_panorama_failed">"No se ha podido salvar la panorámica."</string>
+  <!--Original value: Panorama-->
+  <string name="pano_dialog_title">Panorámica</string>
+  <!--Original value: Panorama-->
+  <string name="pref_camera_panoramamode_title">Panorámica</string>
+  <!--Original value: Saving…-->
+  <string name="pano_review_saving_indication_str">Guardando…</string>
+  <!--Original value: Touch to focus.-->
+  <string name="tap_to_focus">Tocar para enfocar.</string>
+  <!--Original value: none-->
+  <string name="pref_video_effect_default">"ninguno"</string>
+  <!--Original value: None-->
+  <string name="effect_none">Nada</string>
+  <!--Original value: Squeeze-->
+  <string name="effect_goofy_face_squeeze">Apretar</string>
+  <!--Original value: Big eyes-->
+  <string name="effect_goofy_face_big_eyes">Ojos grandes</string>
+  <!--Original value: Big mouth-->
+  <string name="effect_goofy_face_big_mouth">Boca grande</string>
+  <!--Original value: Small mouth-->
+  <string name="effect_goofy_face_small_mouth">Boca pequeña</string>
+  <!--Original value: Big nose-->
+  <string name="effect_goofy_face_big_nose">Nariz grande</string>
+  <!--Original value: Small eyes-->
+  <string name="effect_goofy_face_small_eyes">Ojos pequeños</string>
+  <!--Original value: In space-->
+  <string name="effect_backdropper_space">Espacio</string>
+  <!--Original value: Sunset-->
+  <string name="effect_backdropper_sunset">Puesta de sol</string>
+  <!--Original value: Disco-->
+  <string name="effect_backdropper_disco">Disco</string>
+  <!--Original value: Choose your own-->
+  <string name="effect_backdropper_gallery">Selecciona tu propia</string>
+  <!--Original value: "Set your device down
+Step out of view for a moment"-->
+  <string name="bg_replacement_message">"Deja el dispositivo, sal fuera del encuadre por un momento"</string>
+  <!--Original value: Take a photo during video recording by touching the preview screen.-->
+  <string name="video_snapshot_hint">Tomar una foto durante la grabación de un vídeo tocando la pantalla de previsualización.</string>
+  <!--Original value: Video snapshot is disabled when special effects are on.-->
+  <string name="disable_video_snapshot_hint">Capturas de vídeo desabilitadas cuando ciertos efectos están activos.</string>
+  <!--Original value: Video snapshot size lower than video size. Capping to Video size. Please select a resolution higher or equal to the current video size.-->
+  <string name="snapshot_lower_than_video">Tamaño de captura de vídeo es menor que el tamaño del vídeo. Limitando tamaño de vídeo. Por favor seleccionar una resolución más alta o igual al tamañ de vídeo actual.</string>
+  <!--Original value: Picture resolution in Low Power Mode is not supported. Video size snapshot will be used. Please select High power mode for picture size.-->
+  <string name="snapshotsize_low_powermode">Resolución de imágen no soportada en Low Power Mode. Se utilizará la captura de vídeo. Por favor seleccione el High Power Mode para tamaño de imágen.</string>
+  <!--Original value: Only Video snapshot size supported for this resolution.-->
+  <string name="snapshot_qcif_and_d1">Esta resolución solo soporta capturas de vídeo.</string>
+  <!--Original value: Clear effects-->
+  <string name="clear_effects">Limpiar efectos</string>
+  <!--Original value: SILLY FACES-->
+  <string name="effect_silly_faces">CARAS TONTAS</string>
+  <!--Original value: BACKGROUND-->
+  <string name="effect_background">FONDO</string>
+  <!--Original value: Shutter button-->
+  <string name="accessibility_shutter_button">Botón disparador</string>
+  <!--Original value: Most recent photo-->
+  <string name="accessibility_review_thumbnail">Foto más reciente</string>
+  <!--Original value: Front and back camera switch-->
+  <string name="accessibility_camera_picker">Cambiar entre cámara delantera y trasera</string>
+  <!--Original value: Zoom control-->
+  <string name="accessibility_zoom_control">Control de zoom</string>
+  <!--Original value: " "-->
+  <string name="empty">" "</string>
+  <!--Original value: frame-average-->
+  <string name="pref_camera_autoexposure_default">"-media de trama"</string>
+  <!--Original value: Select Auto Exposure Mode-->
+  <string name="pref_camera_autoexposure_title">Seleccionar Modo Auto Exposición</string>
+  <!--Original value: Frame Average-->
+  <string name="pref_camera_autoexposure_entry_frameaverage">Media de frames</string>
+  <!--Original value: Center Weighted-->
+  <string name="pref_camera_autoexposure_entry_centerweighted">Prioridad al centro</string>
+  <!--Original value: Spot Metering-->
+  <string name="pref_camera_autoexposure_entry_spotmetering">Medición por puntos</string>
+  <!--Original value: frame-average-->
+  <string name="pref_camera_autoexposure_value_frameaverage">"-media de trama"</string>
+  <!--Original value: center-weighted-->
+  <string name="pref_camera_autoexposure_value_centerweighted">"ponderada al centro"</string>
+  <!--Original value: spot-metering-->
+  <string name="pref_camera_autoexposure_value_spotmetering">"de medición puntual"</string>
+  <!--Original value: h264-->
+  <string name="pref_camera_videoencoder_default">h264</string>
+  <!--Original value: aac-->
+  <string name="pref_camera_audioencoder_default">aac</string>
+  <!--Original value: Audio capture-->
+  <string name="pref_camera_audio_capture_title">Capturar audio</string>
+  <!--Original value: 10-->
+  <string name="pref_camera_video_duration_default">"10"</string>
+  <!--Original value: Video Duration-->
+  <string name="pref_camera_video_duration_title">Duración del vídeo</string>
+  <!--Original value: 30 seconds(MMS)-->
+  <string name="pref_camera_video_duration_entry_mms">30 segundos(MMS)</string>
+  <!--Original value: 10 minutes-->
+  <string name="pref_camera_video_duration_entry_10">10 minutos</string>
+  <!--Original value: 30 minutes-->
+  <string name="pref_camera_video_duration_entry_30">30 minutos</string>
+  <!--Original value: No limit-->
+  <string name="pref_camera_video_duration_entry_120">2 horas</string>
+  <!--Original value: disable-->
+  <string name="pref_camera_skinToneEnhancement_default">"inhabilitar"</string>
+  <!--Original value: Skin Tone Enhancement-->
+  <string name="pref_camera_skinToneEnhancement_title">Realce de tonos de piel</string>
+  <!--Original value: Auto Enhancement-->
+  <string name="pref_camera_skinToneEnhancement_entry_auto">Realce automático</string>
+  <!--Original value: Enable-->
+  <string name="pref_camera_skinToneEnhancement_entry_enable">Habilitar</string>
+  <!--Original value: Disable-->
+  <string name="pref_camera_skinToneEnhancement_entry_disable">Deshabilitar</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_skinToneEnhancement_value_auto">"auto"</string>
+  <!--Original value: enable-->
+  <string name="pref_camera_skinToneEnhancement_value_enable">"permitir"</string>
+  <!--Original value: disable-->
+  <string name="pref_camera_skinToneEnhancement_value_disable">"inhabilitar"</string>
+  <!--Original value: ZSL-->
+  <string name="pref_camera_zsl_title">ZSL</string>
+  <!--Original value: on-->
+  <string name="pref_camera_zsl_default">on</string>
+  <!--Original value: auto-->
+  <string name="pref_camera_selectablezoneaf_default">auto</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_zsl_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_zsl_entry_on">On(Max 1M Pixels)</string>
+  <!--Original value: off-->
+  <string name="pref_camera_zsl_value_off">off</string>
+  <!--Original value: on-->
+  <string name="pref_camera_zsl_value_on">on</string>
+  <!--Original value: on-->
+  <string name="pref_camera_facedetection_default">on</string>
+  <!--Original value: Face Detection-->
+  <string name="pref_camera_facedetection_title">Detección de caras</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_facedetection_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_facedetection_entry_on">On</string>
+  <!--Original value: Normal_Power-->
+  <string name="pref_camera_powermode_default">"Normal_Power"</string>
+  <!--Original value: disable-->
+  <string name="pref_camera_redeyereduction_default">"inhabilitar"</string>
+  <!--Original value: wavelet denoise will not take effect when taking raw pictures-->
+  <string name="error_app_unsupported_raw_wavelet">wavelet de-noise no hace efecto al capturar imagenes raw</string>
+  <!--Original value: Redeye Reduction-->
+  <string name="pref_camera_redeyereduction_title">Reducción de ojos rojos</string>
+  <!--Original value: Auto-->
+  <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
+  <!--Original value: Enable-->
+  <string name="pref_camera_redeyereduction_entry_enable">Habilitar</string>
+  <!--Original value: Disable-->
+  <string name="pref_camera_redeyereduction_entry_disable">Deshabilitar</string>
+  <!--Original value: Only H264 video encoding is supported when HFR is ON-->
+  <string name="error_app_unsupported_hfr_codec">Con HFR solo se soporta el codificador de vídeo H264</string>
+  <!--Original value: 720P can support up to 90FPS-->
+  <string name="error_app_unsupported_hfr_720p">720P soporta hasta 90FPS</string>
+  <!--Original value: Unsupported video resolution for this encoder type-->
+  <string name="error_app_unsupported">Reslución de vídeo no soportada para este codificador</string>
+  <!--Original value: HDR-->
+  <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
+  <!--Original value: HHT-->
+  <string name="pref_camera_hand_night_title">HHT</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
+  <!--Original value: HDR-->
+  <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
+  <!--Original value: AE-Bracket-->
+  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_ae_bracket_hdr_value_off">Off</string>
+  <!--Original value: HDR-->
+  <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
+  <!--Original value: AE-Bracket-->
+  <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_ae_bracket_hdr_default">Off</string>
+  <!--Original value: Exit HDR mode-->
+  <string name="hdr_exit_button_text">Salir del modo HDR</string>
+  <!--Original value: Exit Hand-held Twilight-->
+  <string name="hand_night_exit_button_text">"Salir Crepúsculo manual"</string>
+  <!--Original value: Video Camera Settings-->
+  <string name="videocamera_settings_label">Opciones de Vídeo Cámara</string>
+  <!--Original value: Camera Settings-->
+  <string name="camera_settings_label">Opciones</string>
+  <!--Original value: Picture Settings-->
+  <string name="pref_grp_picture_settings">Opciones de imágen</string>
+  <!--Original value: Capture Settings-->
+  <string name="pref_grp_capture_settings">Opciones de captura</string>
+  <!--Original value: Advanced-->
+  <string name="pref_advanced_settings">Opciones avanzadas</string>
+  <!--Original value: Advanced Functions-->
+  <string name="pref_advanced_functions">Funciones avanzadas</string>
+  <!--Original value: Advanced Settings-->
+  <string name="pref_grp_advanced_settings">Opciones avanzadas</string>
+  <!--Original value: Restore Settings-->
+  <string name="pref_grp_restore_settings">Restaurar opciones predeterminadas</string>
+  <!--Original value: Settings-->
+  <string name="pref_camera_settings_title">Opciones</string>
+  <!--Original value: Continuous focus-->
+  <string name="pref_video_continuous_focus">Enfoque continuo</string>
+  <!--Original value: Off-->
+  <string name="pref_video_continuous_focus_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_video_continuous_focus_entry_on">On</string>
+  <!--Original value: caf-off-->
+  <string name="pref_video_continuous_focus_entryvalue_default">caf-off</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_referenceline_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_referenceline_entry_on">On</string>
+  <!--Original value: referenceline-off-->
+  <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
+  <!--Original value: referenceline-on-->
+  <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
+  <!--Original value: volume-->
+  <string name="pref_camera_volumekey_function_entry_volume">Volumen</string>
+  <!--Original value: shutter-->
+  <string name="pref_camera_volumekey_function_entry_shutter">Disparador</string>
+  <!--Original value: zoom-->
+  <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
+  <!--Original value: Volume Key Functions-->
+  <string name="pref_camera_volumekey_function_title">Teclas de volumen</string>
+  <!--Original value: zoom-->
+  <string name="pref_camera_volumekey_function_default">zoom</string>
+  <!--Original value: Burst Shooting-->
+  <string name="pref_camera_long_pressing_burst_shooting_title">Disparo contínuo</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">On</string>
+  <!--Original value: on-->
+  <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
+  <!--Original value: Current Value-->
+  <string name="pref_camera_current_k_value">Valores actuales</string>
+  <!--Original value: Fail to start audio capture: Microphone may be used by other applications.-->
+  <string name="error_fail_to_start_audio_capture">Fallço la captura de audio: El microfono puede estar en uso por otra aplicación.</string>
+  <!--Original value: Make a sound to trigger Sound Shutter-->
+  <string name="toast_start_audio_capture">Haz un sonido para activar el disparador</string>
+  <!--Original value: Press again to stop recording-->
+  <string name="record_back_pressed_hint">Pulse de nuevo para detener la grabación</string>
+  <!--Original value: Unlock sceen for playback-->
+  <string name="can_not_play_video">Para reproducir el vídeo debes desbloquear la pantalla</string>
+  <!--Original value: Burst shooting completed.-->
+  <string name="toast_burst_snap_finished_start">Disparo continuo finalizado</string>
+  <!--Original value: Photos shot.-->
+  <string name="toast_burst_snap_finished_end">Fotos tomadas</string>
+  <!--Original value: Burst shooting is not supported when HDR is ON.-->
+  <string name="toast_burst_snap_forbidden_when_hdr_open">Disparo continuo no soportado cuando HDR está ON.</string>
+  <!--Original value: Burst shooting is not supported when Audio Capture is ON.-->
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo continuo no soportado cuando la captura de audio está ON.</string>
+  <!--Original value: "Burst shooting is not supported when ISO is not 'auto'."-->
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"\"Disparos de ráfaga no se admite cuando la ISO no es 'auto'.\""</string>
+  <!--Original value: Invalid video-size for time-lapse recording.-->
+  <string name="time_lapse_error">Tamaño de vídeo no válido para grabación time-lapse.</string>
+  <!--Original value: on-->
+  <string name="pref_camera_movie_solid_default">on</string>
+  <!--Original value: Movie Solid-->
+  <string name="pref_camera_movie_solid_title">Movie Solid</string>
+  <!--Original value: Off-->
+  <string name="pref_camera_movie_solid_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_camera_movie_solid_entry_on">On</string>
+  <!--Original value: off-->
+  <string name="pref_camera_movie_solid_value_off">off</string>
+  <!--Original value: on-->
+  <string name="pref_camera_movie_solid_value_on">on</string>
+  <!--Original value: off-->
+  <string name="pref_camera_storage_external_default">off</string>
+  <!--Original value: Storage Device-->
+  <string name="pref_camera_storage_external_title">"Dispositivo de almacenamiento"</string>
+  <!--Original value: Phone storage-->
+  <string name="pref_camera_storage_external_entry_off">"Almacenaje del teléfono"</string>
+  <!--Original value: SD card-->
+  <string name="pref_camera_storage_external_entry_on">"Tarjeta SD"</string>
+  <!--Original value: off-->
+  <string name="pref_camera_storage_external_value_off">off</string>
+  <!--Original value: on-->
+  <string name="pref_camera_storage_external_value_on">on</string>
+  <!--Original value: mm-->
+  <string name="unit_mm">mm</string>
+  <!--Original value: Share-->
+  <string name="share">Compartir</string>
+  <!--Original value: Send-->
+  <string name="send">Enviar</string>
+  <!--Original value: Import-->
+  <string name="Import">Importar</string>
+  <!--Original value: Delete-->
+  <string name="delete">Eliminar</string>
+  <!--Original value: Slideshow-->
+  <string name="slideshow">Presentación</string>
+  <!--Original value: Edit-->
+  <string name="edit">Editar</string>
+  <!--Original value: Rotate left-->
+  <string name="rotate_left">Rotar a la izquierda</string>
+  <!--Original value: Rotate right-->
+  <string name="rotate_right">Rotar a la derecha</string>
+  <!--Original value: Set picture as-->
+  <string name="set_image">Usar imágen como</string>
+  <!--Original value: Details-->
+  <string name="details">Detalles</string>
+  <!--Original value: Show on map-->
+  <string name="show_on_map">Mostrar en mapa</string>
+  <!--Original value: Select photo-->
+  <string name="select_image">Seleccionar foto</string>
+  <!--Original value: Select video-->
+  <string name="select_video">Seleccionar vídeo</string>
+  <!--Original value: Select item-->
+  <string name="select_item">Seleccionar elemento</string>
+  <!--Original value: %1$02d:%2$02d-->
+  <string name="details_ms">%1$02d:%2$02d</string>
+  <!--Original value: %1$d:%2$02d:%3$02d-->
+  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+  <!--Original value: Import complete-->
+  <string name="import_complete">Imporación completada</string>
+  <!--Original value: Import unsuccessful-->
+  <string name="import_fail">¡Importación fallida!</string>
+  <!--Original value: Auto-->
+  <string name="auto">Auto</string>
+  <!--Original value: Flash fired-->
+  <string name="flash_on">Flash disparado</string>
+  <!--Original value: No flash-->
+  <string name="flash_off">Sin flash</string>
+  <!--Original value: Manual-->
+  <string name="manual">Manual</string>
+  <!--Original value: Close-->
+  <string name="close">Cerrar</string>
+  <!--Original value: %1$d of %2$d items:-->
+  <string name="details_title">%1$d de %2$d elementos:</string>
+  <!--Original value: Local albums-->
+  <string name="set_label_local_albums">Albumes locales</string>
+  <!--Original value: Camera-->
+  <string name="folder_camera">Cámara</string>
+  <!--Original value: Download-->
+  <string name="folder_download">Descargar</string>
+  <!--Original value: Imported-->
+  <string name="folder_imported">Importado</string>
+  <!--Original value: Screenshot-->
+  <string name="folder_screenshot">Captura</string>
+  <!--Original value: Deleted-->
+  <string name="deleted">Eliminado</string>
+  <!--Original value: UNDO-->
+  <string name="undo">DESHACER</string>
+  <!--Original value: OK-->
+  <string name="ok">OK</string>
+  <!--Original value: Cancel-->
+  <string name="cancel">Cancelar</string>
+  <!--Original value: Set as-->
+  <string name="set_as">Usar como</string>
+  <!--Original value: No thumbnail-->
+  <string name="no_thumbnail">Sin previsualizaciones</string>
+  <!--Original value: Loading…-->
+  <string name="loading">Cargando...</string>
+  <!--Original value: Cropped image saved to %s.-->
+  <string name="crop_saved">Imágen recortada salvada como %s</string>
+  <!--Original value: "Can't play video."-->
+  <string name="video_err">"Error al reproducir vídeo."</string>
+  <!--Original value: ISO-->
+  <string name="iso">ISO</string>
+  <!--Original value: Exposure time-->
+  <string name="exposure_time">Tiempo de exposición</string>
+  <!--Original value: White balance-->
+  <string name="white_balance">Balance de blancos</string>
+  <!--Original value: Focal Length-->
+  <string name="focal_length">Longitud focal</string>
+  <!--Original value: Aperture-->
+  <string name="aperture">Apertura</string>
+  <!--Original value: Flash-->
+  <string name="flash">Flash</string>
+  <!--Original value: Description-->
+  <string name="description">Descripción</string>
+  <!--Original value: Duration-->
+  <string name="duration">Duración</string>
+  <!--Original value: File size-->
+  <string name="file_size">Tamaño de archivo</string>
+  <!--Original value: Height-->
+  <string name="height">Altura</string>
+  <!--Original value: Loading video…-->
+  <string name="loading_video">Cargando vídeo...</string>
+  <!--Original value: Location-->
+  <string name="location">Localización</string>
+  <!--Original value: Maker-->
+  <string name="maker">Fabricante</string>
+  <!--Original value: MIME type-->
+  <string name="mimetype">Tipo MIME</string>
+  <!--Original value: Model-->
+  <string name="model">Modelo</string>
+  <!--Original value: Orientation-->
+  <string name="orientation">Orientación</string>
+  <!--Original value: Path-->
+  <string name="path">Ubicación</string>
+  <!--Original value: Time-->
+  <string name="time">Tiempo</string>
+  <!--Original value: Title-->
+  <string name="title">Título</string>
+  <!--Original value: Group by-->
+  <string name="group_by">Agrupar por</string>
+  <!--Original value: By album-->
+  <string name="group_by_album">Por album</string>
+  <!--Original value: By people-->
+  <string name="group_by_faces">Por personas</string>
+  <!--Original value: By location-->
+  <string name="group_by_location">Por lozalización</string>
+  <!--Original value: By tags-->
+  <string name="group_by_tags">Por etiquetas</string>
+  <!--Original value: By time-->
+  <string name="group_by_time">Por tiempo</string>
+  <!--Original value: Locations-->
+  <string name="locations">Localizaciones</string>
+  <!--Original value: People-->
+  <string name="people">Personas</string>
+  <!--Original value: Resume playing from %s ?-->
+  <string name="resume_playing_message">Continuar la reproducción desde %s ?</string>
+  <!--Original value: Start over-->
+  <string name="resume_playing_restart">Reiniciar</string>
+  <!--Original value: Resume playing-->
+  <string name="resume_playing_resume">Continuar reproducción</string>
+  <!--Original value: Resume video-->
+  <string name="resume_playing_title">Continuar vídeo</string>
+  <!--Original value: Images & videos-->
+  <string name="show_all">Mostrar todos</string>
+  <!--Original value: Images only-->
+  <string name="show_images_only">Mostrar imágenes</string>
+  <!--Original value: Videos only-->
+  <string name="show_videos_only">Mostrar vídeos</string>
+  <!--Original value: Tags-->
+  <string name="tags">Etiquetas</string>
+  <!--Original value: Times-->
+  <string name="times">Tiempos</string>
+  <!--Original value: Width-->
+  <string name="width">Anchura</string>
+  <!--Original value: Albums-->
+  <string name="albums">Álbumes</string>
+  <!--Original value: Select all-->
+  <string name="select_all">Seleccionar todos</string>
+  <!--Original value: All albums-->
+  <string name="set_label_all_albums">Todos los albumes</string>
+  <!--Original value: Send multiple files (%s)-->
+  <string name="send_multiple_files_hint_format">Enviar multiples archivos (%s)</string>
+  <!--Original value: Close HDR mode-->
+  <string name="simple_mode_button_text_hdr">Cerrar modo HDR</string>
+  <!--Original value: Close Hand-held Twilight-->
+  <string name="simple_mode_button_text_hand_night">"Cerrar Crepúsculo de mano"</string>
+  <!--Original value: Close panorama-->
+  <string name="simple_mode_button_text_panorama">Cerrar panorámica</string>
+  <!--Original value: Close filter-->
+  <string name="simple_mode_button_text_color_effect">Cerrar filtros</string>
+  <!--Original value: Close audio capture-->
+  <string name="simple_mode_button_text_audio_capture">Cerrar captura de audio</string>
+  <!--Original value: Close slow-motion camera-->
+  <string name="simple_mode_button_text_slow_video">Cerrar cámara lenta</string>
+  <!--Original value: Filter-->
+  <string name="pref_camera_coloreffect_title_simple_mode">Filtros</string>
+  <!--Original value: Slow-motion-->
+  <string name="pref_video_slow_speed_title_simple_mode">Cámara lenta</string>
+  <!--Original value: Simple mode-->
+  <string name="simple_mode_title">"Modo sencillo"</string>
+  <!--Original value: Camera mode-->
+  <string name="pref_settings_mode">Modo de la cámara</string>
+  <!--Original value: Capture ability-->
+  <string name="pref_video_captrue_ability_title">"Capacidad de captura"</string>
+  <!--Original value: Find a visiting card QR code-->
+  <string name="find_mecard_qrcode">"Encuentra una tarjeta QR code visitar"</string>
+  <!--Original value: Find a WeChat QR code-->
+  <string name="find_wechat_qrcode">"Encontrar un código QR WeChat"</string>
+  <!--Original value: Find a market QR code-->
+  <string name="find_market_qrcode">"Encontrar un código QR mercado"</string>
+  <!--Original value: Find a web site QR code-->
+  <string name="find_web_qrcode">"Encontrar un sitio web de código QR"</string>
+  <!--Original value: Find a QR code-->
+  <string name="find_other_qrcode">"Encontrar un código QR"</string>
+  <!--Original value: Find a QQ QR code-->
+  <string name="find_qq_qrcode">"Encontrar un código QR QQ"</string>
+  <!--Original value: Find a WLAN QR code-->
+  <string name="find_wifi_qrcode">"Encontrar un código QR WLAN"</string>
+  <!--Original value: See details-->
+  <string name="see_qrcode_detals">"Ver más detalles"</string>
+  <!--Original value: Scan QR code-->
+  <string name="scan_qrcode">"Escanear el código QR"</string>
+  <!--Original value: App details:-->
+  <string name="app_details">"Detalles de la aplicación:"</string>
+  <!--Original value: Web site details:-->
+  <string name="website_details">"Detalles del sitio Web:"</string>
+  <!--Original value: Contact details:-->
+  <string name="contact_details">"Datos de contacto:"</string>
+  <!--Original value: WeChat details:-->
+  <string name="wechat_details">"WeChat detalles:"</string>
+  <!--Original value: QR code details:-->
+  <string name="qr_code_details">"QR detalles del código:"</string>
+  <!--Original value: Import contact-->
+  <string name="import_contact">"Importación de contactos"</string>
+  <!--Original value: Secure access-->
+  <string name="secure_access_web_url">"Acceso seguro"</string>
+  <!--Original value: Download by browser-->
+  <string name="download_by_browser">"Descarga por el navegador"</string>
+  <!--Original value: Launch AppStore-->
+  <string name="launch_market">"Inicie AppStore"</string>
+  <!--Original value: Launch WeChat-->
+  <string name="launch_wechat">"Inicie WeChat"</string>
+  <!--Original value: Download WeChat-->
+  <string name="download_wechat">"Descarga WeChat"</string>
+  <!--Original value: See app details-->
+  <string name="see_app_details">"Ver detalles de la aplicación"</string>
+  <!--Original value: Copy text-->
+  <string name="copy_text">"Copiar texto"</string>
+  <!--Original value: Copy success-->
+  <string name="copy_text_success">"Copiar el éxito"</string>
+  <!--Original value: Name-->
+  <string name="contact_name">"Nombre"</string>
+  <!--Original value: NickName-->
+  <string name="contact_nickname">"NickName"</string>
+  <!--Original value: Company-->
+  <string name="contact_company">"Empresa"</string>
+  <!--Original value: Title-->
+  <string name="contact_title">"Título"</string>
+  <!--Original value: Phone-->
+  <string name="contact_phone">"Teléfono"</string>
+  <!--Original value: Email-->
+  <string name="contact_email">"Email"</string>
+  <!--Original value: Web-->
+  <string name="contact_web">"Web"</string>
+  <!--Original value: Address-->
+  <string name="contact_address">"Dirección"</string>
+  <!--Original value: Birthday-->
+  <string name="contact_birthday">"Cumpleaños"</string>
+  <!--Original value: Note-->
+  <string name="contact_note">"Nota"</string>
+  <!--Original value: Imported successfully-->
+  <string name="success_message_import_from_account">"Importado con éxito"</string>
+  <!--Original value: The web site in QR code may be at risk, MIUI browser will safely scan it for you. Please access it safely-->
+  <string name="web_url_warning">"El sitio web en código QR puede estar en riesgo, el navegador de MIUI será con seguridad escanear por usted. "</string>
+  <!--Original value: The QR code contains a application to download that may be at risk, we recommend you use the Market to search and install the application-->
+  <string name="web_url_apk_warning">"El código QR contiene una aplicación para descargar que pueden estar en riesgo, le recomendamos que utilice el mercado para buscar e instalar la aplicación"</string>
+  <!--Original value: SSID:-->
+  <string name="wifi_ssid">"SSID:"</string>
+  <!--Original value: PassWord:-->
+  <string name="wifi_pwd">"Contraseña:"</string>
+  <!--Original value: Security:-->
+  <string name="wifi_security">"Seguridad:"</string>
+  <!--Original value: WLAN details:-->
+  <string name="wifi_details">"Detalles WLAN:"</string>
+  <!--Original value: Connect to this WLAN-->
+  <string name="connect_wifi">"Conéctese a esta WLAN"</string>
+  <!--Original value: QQ details:-->
+  <string name="qq_details">"Detalles QQ:"</string>
+  <!--Original value: Launch QQ by brower-->
+  <string name="launch_qq">"Inicie QQ por Brower"</string>
+  <!--Original value: Download QQ-->
+  <string name="download_qq">"Descarga QQ"</string>
+  <!--Original value: Please ensure it safely before you connect this wifi-->
+  <string name="wifi_warning">"Por favor, asegúrese de manera segura antes de conectar este wifi"</string>
+  <!--Original value: WLAN connecting...-->
+  <string name="wifi_connecting">"WLAN de conexión ..."</string>
+  <!--Original value: Unable to open WLAN-->
+  <string name="wifi_open_fail">"No se puede abrir WLAN"</string>
+  <!--Original value: WLAN connection timeout or failure-->
+  <string name="wifi_connect_fail">"Tiempo de espera de la conexión WLAN o el fracaso"</string>
+  <!--Original value: WLAN connection success-->
+  <string name="wifi_connect_success">"El éxito de conexión WLAN"</string>
+  <!--Original value: Scan QR Code-->
+  <string name="pref_scan_qrcode_title">"Escanear código QR"</string>
+  <!--Original value: Off-->
+  <string name="pref_scan_qrcode_entry_off">Off</string>
+  <!--Original value: On-->
+  <string name="pref_scan_qrcode_entry_on">On</string>
+  <!--Original value: on-->
+  <string name="pref_scan_qrcode_default">on</string>
+  <!--Original value: off-->
+  <string name="pref_scan_qrcode_value_off">off</string>
+  <!--Original value: on-->
+  <string name="pref_scan_qrcode_value_on">on</string>
+</resources>

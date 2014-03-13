@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <string-array name="widget_sizes">
+    <!--Original value: home_edit_box_area_1_1-->
+    <item>home_edit_box_area_1_1</item>
+    <!--Original value: home_edit_box_area_1_2-->
+    <item>home_edit_box_area_1_2</item>
+    <!--Original value: home_edit_box_area_1_3-->
+    <item>home_edit_box_area_1_3</item>
+    <!--Original value: home_edit_box_area_1_4-->
+    <item>home_edit_box_area_1_4</item>
+    <!--Original value: home_edit_box_area_2_1-->
+    <item>home_edit_box_area_2_1</item>
+    <!--Original value: home_edit_box_area_2_2-->
+    <item>home_edit_box_area_2_2</item>
+    <!--Original value: home_edit_box_area_2_3-->
+    <item>home_edit_box_area_2_3</item>
+    <!--Original value: home_edit_box_area_2_4-->
+    <item>home_edit_box_area_2_4</item>
+    <!--Original value: home_edit_box_area_3_1-->
+    <item>home_edit_box_area_3_1</item>
+    <!--Original value: home_edit_box_area_3_2-->
+    <item>home_edit_box_area_3_2</item>
+    <!--Original value: home_edit_box_area_3_3-->
+    <item>home_edit_box_area_3_3</item>
+    <!--Original value: home_edit_box_area_3_4-->
+    <item>home_edit_box_area_3_4</item>
+    <!--Original value: home_edit_box_area_4_1-->
+    <item>home_edit_box_area_4_1</item>
+    <!--Original value: home_edit_box_area_4_2-->
+    <item>home_edit_box_area_4_2</item>
+    <!--Original value: home_edit_box_area_4_3-->
+    <item>home_edit_box_area_4_3</item>
+    <!--Original value: home_edit_box_area_4_4-->
+    <item>home_edit_box_area_4_4</item>
+  </string-array>
+  <string-array name="transformation_entries">
+    <!--Original value: Classic slide-->
+    <item>Clásico</item>
+    <!--Original value: Classic slide (no overshoot)-->
+    <item>Clásico (sin rebote)</item>
+    <!--Original value: Crossfade-->
+    <item>Desvanecer</item>
+    <!--Original value: Tumble-->
+    <item>Rueda</item>
+    <!--Original value: Page-->
+    <item>Páginas</item>
+    <!--Original value: Cascade-->
+    <item>Cascada</item>
+    <!--Original value: Rotate-->
+    <item>Rotación</item>
+    <!--Original value: Cube-->
+    <item>Cubo 3D</item>
+  </string-array>
+  <string-array name="transformation_values">
+    <!--Original value: 0-->
+    <item>0</item>
+    <!--Original value: 1-->
+    <item>1</item>
+    <!--Original value: 2-->
+    <item>2</item>
+    <!--Original value: 3-->
+    <item>3</item>
+    <!--Original value: 5-->
+    <item>5</item>
+    <!--Original value: 7-->
+    <item>7</item>
+    <!--Original value: 8-->
+    <item>8</item>
+    <!--Original value: 4-->
+    <item>4</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_entries">
+    <!--Original value: Theme default-->
+    <item>Según tema</item>
+    <!--Original value: Center-->
+    <item>Centro</item>
+    <!--Original value: Left-->
+    <item>Izquierda</item>
+    <!--Original value: Right-->
+    <item>Derecha</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_values">
+    <!--Original value: byTheme-->
+    <item>"byTheme"</item>
+    <!--Original value: center-->
+    <item>"centro"</item>
+    <!--Original value: left-->
+    <item>"izquierda"</item>
+    <!--Original value: right-->
+    <item>"derecha"</item>
+  </string-array>
+  <string-array name="cell_layout_size_entries">
+    <!--Original value: 4x4-->
+    <item>4x4</item>
+    <!--Original value: 4x5-->
+    <item>4x5</item>
+  </string-array>
+  <string-array name="cell_layout_size_values">
+    <!--Original value: 4x4-->
+    <item>4x4</item>
+    <!--Original value: 4x5-->
+    <item>4x5</item>
+  </string-array>
+  <string-array name="gadget_weather_theme_type_entries">
+    <!--Original value: Default-->
+    <item>"Defecto"</item>
+    <!--Original value: Classic-->
+    <item>"Clásico"</item>
+  </string-array>
+  <string-array name="gadget_weather_image">
+    <!--Original value: Clear-->
+    <item>Despejado</item>
+    <!--Original value: Cloudy-->
+    <item>"Nublado"</item>
+    <!--Original value: Hazy-->
+    <item>"Brumoso"</item>
+    <!--Original value: Foggy-->
+    <item>"Brumoso"</item>
+    <!--Original value: Severe rainstorm-->
+    <item>"Tormenta severa"</item>
+    <!--Original value: Rainstorm-->
+    <item>"Temporal de lluvia"</item>
+    <!--Original value: Very heavy rainfall-->
+    <item>"Lluvias muy fuertes"</item>
+    <!--Original value: Thunderstorm-->
+    <item>"Tormenta"</item>
+    <!--Original value: Shower-->
+    <item>"Chaparrón"</item>
+    <!--Original value: Heavy rainfall-->
+    <item>"Fuertes lluvias"</item>
+    <!--Original value: Rain-->
+    <item>"Lluvia"</item>
+    <!--Original value: Drizzle-->
+    <item>"Llovizna"</item>
+    <!--Original value: Sleet-->
+    <item>"Aguanieve"</item>
+    <!--Original value: Snowstorm-->
+    <item>"Nevada"</item>
+    <!--Original value: Patches of snowfall-->
+    <item>"Parches de nieve"</item>
+    <!--Original value: Heavy snowfall-->
+    <item>"Fuertes nevadas"</item>
+    <!--Original value: Snowfall-->
+    <item>"Nevada"</item>
+    <!--Original value: Light snowfall-->
+    <item>"Algo de nieve"</item>
+    <!--Original value: Strong sandstorm-->
+    <item>"Fuerte tormenta de arena"</item>
+    <!--Original value: Sandstorm-->
+    <item>"Tempestad de arena"</item>
+    <!--Original value: Light sandstorm-->
+    <item>"Floja Tormenta de arena"</item>
+    <!--Original value: Sandstorm-->
+    <item>"Tempestad de arena"</item>
+    <!--Original value: Hail-->
+    <item>"Granizo"</item>
+    <!--Original value: Floating Dust-->
+    <item>"El polvo flotante"</item>
+    <!--Original value: Haze-->
+    <item>"Neblina"</item>
+  </string-array>
+  <string-array name="editing_mode_entries">
+    <!--Original value: Clean up Home screen-->
+    <item>"Limpie la pantalla de inicio"</item>
+    <!--Original value: Add widgets-->
+    <item>"Añada widgets"</item>
+    <!--Original value: Change wallpaper-->
+    <item>"Cambio de fondo de pantalla"</item>
+    <!--Original value: Screen transitions-->
+    <item>"Transiciones de pantalla"</item>
+  </string-array>
+  <string-array name="editing_mode_values">
+    <!--Original value: 0-->
+    <item>0</item>
+    <!--Original value: 1-->
+    <item>1</item>
+    <!--Original value: 2-->
+    <item>2</item>
+    <!--Original value: 3-->
+    <item>3</item>
+  </string-array>
+</resources>
