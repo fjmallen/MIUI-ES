@@ -593,7 +593,7 @@
   </string-array>
   <string-array name="usb_connection_mode_entries">
     <item>Preguntar al conectar</item>
-    <item>Sólo carga/item>
+    <item>Sólo carga</item>
     <item>Montar tarjeta SD</item>
   </string-array>
   <string-array name="usb_connection_mode_values">
