@@ -1608,9 +1608,6 @@ Phone setup can require significant network activity."</string>
   <string name="search_settings">Búsqueda</string>
   <string name="search_settings_summary">Manage search settings and history</string>
   <string name="display_settings">Ajustes de pantalla</string>
-  <string name="accelerometer_title">Pantalla giratoria</string>
-  <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
   <string name="brightness">Brillo</string>
   <string name="brightness_summary">Adjust the brightness of the screen</string>
   <string name="screen_timeout">Tiempo espera pantalla</string>
@@ -1853,8 +1850,6 @@ To clear music, pictures, and other user data, the "SD card needs to be erased.<
   <string name="location_access_title">Access to my location</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
   <string name="location_sources_heading">Location sources</string>
-  <string name="about_settings">Acerca del teléfono</string>
-  <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="legal_information">Información legal</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="regulatory_information">Regulatory information</string>
@@ -2863,8 +2858,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="access_control_need_password">%s ha sido protegida\n</string>
   <string name="access_control_no_back_footer">por[icon] salir</string>
   <string name="access_control_recording_intro_header">Dibuje un patrón para limitar el acceso</string>
-  <string name="access_control_app_entry_single">Acceder a esta app</string>
-  <string name="access_control_app_entry_multiple">Acceder a %s</string>
   <string name="apn_mms">MMS</string>
   <string name="apn_general">General</string>
   <string name="launcher_settings_title">Launcher</string>
@@ -3433,12 +3426,7 @@ Get the driver at http://miui.com/mac"</string>
   <string name="tls_summary_on">TLS is turned on</string>
   <string name="MobileNetwork_Category">Mobile Network</string>
   <string name="AgpsHelp_Category">Help</string>
-  <string name="about_agps_title">About A-GPS</string>
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-  <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-\u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
-  <string name="epo_auto_download_title">Auto download</string>
+<string name="epo_auto_download_title">Auto download</string>
   <string name="epo_auto_download_summary">Automatically download satellite position data</string>
   <string name="epo_info_title">EPO file info</string>
   <string name="epo_download_time_title">Download time</string>
@@ -3818,8 +3806,8 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="wifi_failover_gprs_content">WLAN is unavailable, try to connect to mobile network?</string>
   <string name="change_data_conn_title">Change data connection</string>
   <string name="change_data_conn_message">%1$s is not availible now, change the default data connection to %2$s?</string>
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+
+
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -5895,8 +5883,6 @@ Nota: Apps con permisos pueden causar inestabilidad en el sistema, incluso perdi
     <string name="access_control_password_title">Habilitar contraseña</string>
     <string name="access_control_need_to_unlock">Contraseña requerida para desbloquear</string>
     <string name="access_control_reset_by_account">Acceda a su cuenta Xiaomi para resetear su contraseña</string>
-    <string name="access_control_need_password">"%s protegida por contraseña
-"</string>
     <string name="access_control_no_back_footer">Pulsa el [icon] para salir</string>
     <string name="access_control_recording_intro_header">Dibuja patrón para crear contraseña para bloqueo</string>
     <string name="access_control_app_entry_single">Abrir aplicación seleccionada</string>
