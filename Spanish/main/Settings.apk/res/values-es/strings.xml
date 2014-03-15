@@ -697,7 +697,6 @@ Tenga cuidado, la concesión de permisos de root para aplicaciones de terceros p
   <string name="fw_clear_blacklist">Clear blocklist</string>
   <string name="fw_clear_whitelist">Clear exceptions</string>
   <string name="fw_restore_ms">Restore messages</string>
-  <string name="fw_ms">Message time: %s (%d)</string>
   <string name="fw_call">Call time: %s (%d)</string>
   <string name="fw_import_blacklist">Import blocklist</string>
   <string name="fw_import_whitelist">Import exceptions</string>
