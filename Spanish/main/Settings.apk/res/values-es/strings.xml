@@ -726,7 +726,7 @@ Tenga cuidado, la concesión de permisos de root para aplicaciones de terceros p
   <string name="firewall_log">Firewall log</string>
   <string name="fw_on">Do not disturb enabled</string>
   <string name="fw_blocked">Blocked log</string>
-  <string name="fw_blocked_count">Intercepted:%dCalls and %dMessages</string>
+  <string name="fw_blocked_count" formatted="false">Intercepted:%dCalls and %dMessages</string>
   <string name="firewall_settings">Do not disturb settings</string>
   <string name="remove">Delete</string>
   <string name="emptylist_fwlog_call">Blocked calls will be logged here</string>
@@ -762,7 +762,7 @@ Tenga cuidado, la concesión de permisos de root para aplicaciones de terceros p
   <string name="remove_delete">Delete</string>
   <string name="blacklist_tab_title">Blocklist</string>
   <string name="whitelist_tab_title">Exceptions</string>
-  <string name="log_count">(%d)</string>
+  <string name="log_count" formatted="false">(%d)</string>
   <string name="new_bw_list_button">Add contact</string>
   <string name="mark_number_dialog_maintitle">Block and report number</string>
   <string name="mark_number_dialog_subtitle">Developed in part with Sogou</string>
@@ -859,7 +859,7 @@ Tenga cuidado, la concesión de permisos de root para aplicaciones de terceros p
   <string name="virus_scan_last_time">Most recent scan: %s</string>
   <string name="virus_scan_safe">Clear</string>
   <string name="virus_scan_dangerous">Risk</string>
-  <string name="virus_scan_find">%d risk(s) discovered</string>
+  <string name="virus_scan_find" formatted="false">%d risk(s) discovered</string>
   <string name="virus_scan_parpare">Starting engine…</string>
   <string name="virus_scan_is_scanning">Scanning…</string>
   <string name="virus_scan_stop">Pause</string>
