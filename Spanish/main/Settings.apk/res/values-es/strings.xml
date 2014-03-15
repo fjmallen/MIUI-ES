@@ -1775,21 +1775,11 @@ Possibly incorrect PIN."</string>
   <string name="restore_default_apn_completed">Restablecimiento de la configuración de APN predeterminada completado</string>
   <string name="master_clear_title">Restablecer datos de fábrica</string>
   <string name="master_clear_summary">Borrar todos los datos del teléfono</string>
-  <string name="master_clear_desc">"This will erase all data from your phone's "internal storage", including:
-
-"Your Google account"
-"System and app data and settings"
-"Downloaded apps" "</string>
-
-You are currently signed into the following accounts:
-  <string name="master_clear_accounts">"
-
-You are currently signed into the following accounts:
-"</string>
+  <string name="master_clear_desc">"Se borrarán todos los datos del almacenamiento interno del teléfono"</string>
+  <string name="master_clear_accounts">"You are currently signed into the following accounts:"</string>
   <string name="master_clear_desc_also_erases_external">" "Music"
 "Photos"
 "Other user data" "</string>
-
   <string name="master_clear_desc_erase_external_storage">"To clear music, pictures, and other user data, the "SD card needs to be erased.</string>
   <string name="erase_external_storage">Erase SD card</string>
   <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos</string>
