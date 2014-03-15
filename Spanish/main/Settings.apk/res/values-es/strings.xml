@@ -3396,13 +3396,13 @@ Get the driver at http://miui.com/mac"</string>
   <string name="tls_summary_on">TLS is turned on</string>
   <string name="MobileNetwork_Category">Mobile Network</string>
   <string name="AgpsHelp_Category">Help</string>
-  <string name="about_agps_title">About A-GPS</string>
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-  <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-\u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
-  <string name="epo_auto_download_title">Auto download</string>
-  <string name="epo_auto_download_summary">Automatically download satellite position data</string>
+<string name="about_agps_title">Acerca de A-GPS</string>
+    <string name="about_agps_message">"\u0009 A-GPS (GPS asistido) es el sistema que puede mejorar el rendimiento de inicio y la velocidad de captación (TTFF) de los satélites GPS.
+\u0009 Un dispositivo con A-GPS se puede conectar a servidores de localización para adquirir asistencia de datos a través de la conexión móvil de datos.
+\u0009 Ten en cuenta que el consumo de datos puede causar gastos extras en redes Roaming en el extranjero. Contacta con tu operador para más detalles."</string>
+    <string name="epo_auto_download_title">Descarga automática</string>
+    <string name="epo_auto_download_summary">Descargar automáticamente datos de posición de satélite</string>
+
   <string name="epo_info_title">EPO file info</string>
   <string name="epo_download_time_title">Download time</string>
   <string name="epo_download_time_summary">Unavailable</string>
