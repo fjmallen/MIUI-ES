@@ -3711,8 +3711,8 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="mtk_datausage_overview_wifi_today">Today</string>
   <string name="mtk_datausage_overview_wifi_total">Total</string>
   <string name="mtk_datausage_overview_mobile_title">MOBILE</string>
-  <string name="mtk_datausage_overview_mobile_usage">%s out of %s</string>
-  <string name="mtk_datausage_overview_mobile_usage_warning">Out of limit %s</string>
+    <string name="mtk_datausage_overview_mobile_usage" formatted="false">%s fuera de %s</string>
+    <string name="mtk_datausage_overview_mobile_usage_warning">Fuera de límite %s</string>
   <string name="display_personalize">Personalize</string>
   <string name="display_default">Display</string>
   <string name="sound_enhancement_title">Sound enhancement</string>
