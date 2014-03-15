@@ -2165,22 +2165,16 @@ Some apps may not work until updated by their developers."</string>
   <string name="accessibility_settings_title">Ajustes de accesibilidad</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_screen_magnification_title">Magnification gestures
-While zoomed in, you can:
-""Pan: Drag two or more fingers across the screen.
-"Adjust zoom level: Pinch two or more fingers together or spread them apart."
+    <string name="accessibility_screen_magnification_title">Gestos de ampliación</string>
+    <string name="accessibility_screen_magnification_summary">"Cuando esta característica está activa, puedes hacer zoom con triple pulsación en la pantalla.
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
-</string>
-  <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+Cuando amplías zoom, puedes:
+"<ul><li>"Panorámica: arrastra dos o más dedos a través de la pantalla.
+"<li>Ajustar nivel de zoom: Pellizca dos o más dedos juntos o separalos.</li></li></ul>"
 
-While zoomed in, you can:
-""Pan: Drag two or more fingers across the screen.
-"Adjust zoom level: Pinch two or more fingers together or spread them apart."
+También puedes aumentar temporalmente lo que hay bajo tu dedo mediante triple toque y aguantar. En este estado ampliado, puede arrastrar tu dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado previo.
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
-
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
+Nota: El Triple toque para aumento funciona siempre excepto con el teclado y la barra de navegación."</string>
   <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
   <string name="accessibility_global_gesture_preference_summary_on">On</string>
   <string name="accessibility_global_gesture_preference_summary_off">Off</string>
@@ -3214,11 +3208,11 @@ Get the driver at http://miui.com/mac"</string>
   <string name="wifi_priority_type_summary">Set priority for each access point manually</string>
   <string name="wifi_priority_settings_title">AP priority settings</string>
   <string name="wifi_priority_settings_summary">Tap to set priority for each access point</string>
-  <string name="wifi_priority_changed">Old priority value = %s, new value = %s</string>
+  <string name="wifi_priority_changed" formatted="false">Old priority value = %s, new value = %s</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_priority_label">Priority</string>
   <string name="wifi_available_title">Connect to WLAN</string>
-  <string name="msg_wlan_signal_found">Found WLAN signal %s, would you like to use this WLAN network? Using this network will interrupt the data service partially.</string>
+  <string name="msg_wlan_signal_found" formatted="false">Found WLAN signal %s, would you like to use this WLAN network? Using this network will interrupt the data service partially.</string>
   <string name="wifi_signal_found_msg">Current connection signal is weak, would you like to use another WLAN network?</string>
   <string name="nfc_category_title">NFC</string>
   <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
