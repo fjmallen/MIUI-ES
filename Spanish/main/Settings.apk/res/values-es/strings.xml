@@ -1775,9 +1775,6 @@ Possibly incorrect PIN."</string>
   <string name="restore_default_apn_completed">Restablecimiento de la configuración de APN predeterminada completado</string>
   <string name="master_clear_title">Restablecer datos de fábrica</string>
   <string name="master_clear_summary">Borrar todos los datos del teléfono</string>
-
-"Your Google account"
-"System and app data and settings"
   <string name="master_clear_desc">"This will erase all data from your phone's "internal storage", including:
 
 "Your Google account"
@@ -1789,14 +1786,11 @@ You are currently signed into the following accounts:
 
 You are currently signed into the following accounts:
 "</string>
-"Photos"
   <string name="master_clear_desc_also_erases_external">" "Music"
 "Photos"
 "Other user data" "</string>
 
-  <string name="master_clear_desc_erase_external_storage">"
-
-To clear music, pictures, and other user data, the "SD card needs to be erased.</string>
+  <string name="master_clear_desc_erase_external_storage">"To clear music, pictures, and other user data, the "SD card needs to be erased.</string>
   <string name="erase_external_storage">Erase SD card</string>
   <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos</string>
   <string name="master_clear_button_text">Reiniciar teléfono</string>
@@ -1956,13 +1950,12 @@ To clear music, pictures, and other user data, the "SD card needs to be erased.<
   <string name="show_running_services">Mostrar servicios en ejecución</string>
   <string name="show_background_processes">Mostrar procesos en cache</string>
   <string name="reset_app_preferences">Reset app preferences</string>
-  <string name="reset_app_preferences_title">Reset app preferences?</string>
+  <string name="reset_app_preferences_title">Reset app preferences?
 
  "Disabled apps"
  "Disabled app notifications"
  "Default applications for actions"
- "Background data restrictions for apps"
-
+ "Background data restrictions for apps"</string>
   <string name="reset_app_preferences_desc">"This will reset all preferences for:
 
  "Disabled apps"
@@ -2182,14 +2175,13 @@ Some apps may not work until updated by their developers."</string>
   <string name="accessibility_settings_title">Ajustes de accesibilidad</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_screen_magnification_title">Magnification gestures</string>
-
+  <string name="accessibility_screen_magnification_title">Magnification gestures
 While zoomed in, you can:
 ""Pan: Drag two or more fingers across the screen.
 "Adjust zoom level: Pinch two or more fingers together or spread them apart."
 
 You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
-
+</string>
   <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
@@ -2202,10 +2194,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
   <string name="accessibility_global_gesture_preference_summary_on">On</string>
   <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
-
-Step 2: Touch and hold two fingers until you hear audio confirmation.
 
   <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
 
@@ -2484,8 +2472,7 @@ Touch "Back to connect to a different WLAN network.</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="sync_menu_sync_now">Sync now</string>
   <string name="sync_menu_sync_cancel">Cancel sync</string>
-  <string name="sync_one_time_sync">"Touch to sync now
-%1$s"</string>
+  <string name="sync_one_time_sync">"Touch to sync now %1$s"</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_calendar">Calendar</string>
   <string name="sync_contacts">Contacts</string>
@@ -2610,10 +2597,10 @@ A Google approach to syncing data to allow access to your contacts, appointments
 
 You can find more appropriate data usage controls in the settings available within the app."</string>
   <string name="data_usage_restrict_denied_dialog">"Restricting background data is possible only when you've set a mobile data limit."</string>
-  <string name="data_usage_auto_sync_on_dialog_title">Turn auto-sync data on?</string>
+  <string name="data_usage_auto_sync_on_dialog_title">Turn auto-sync data on?
 
 Some accounts may also automatically copy any changes you make on the phone to the web. A Google Account works this way.
-
+</string>
   <string name="data_usage_auto_sync_on_dialog">"Any changes you make to your accounts on the web will be automatically copied to your phone.
 
 Some accounts may also automatically copy any changes you make on the phone to the web. A Google Account works this way.
@@ -2716,9 +2703,9 @@ This setting affects all users on this phone."</string>
   <string name="user_summary_not_set_up">Not set up</string>
   <string name="user_owner">Owner</string>
   <string name="user_nickname">Nickname</string>
-  <string name="user_add_user_title">Add new user</string>
+  <string name="user_add_user_title">Add new user
 
-After you create a new user, that person needs to go through a setup process.
+After you create a new user, that person needs to go through a setup process.</string>
 
   <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
 
@@ -3118,20 +3105,20 @@ Select your computer’s operating system:"</string>
   <string name="msd_install_next">Next</string>
   <string name="msd_install">Reinstall driver?</string>
   <string name="msd_install_finish">OK</string>
-  <string name="msd_install_windows_xp_step_2_1">Follow the steps in Setup Wizard to complete installation.</string>
+  <string name="msd_install_windows_xp_step_2_1">Follow the steps in Setup Wizard to complete installation.
 Try the following:
-"1) Reconnect the USB cable."
+"1) Reconnect the USB cable."</string>
   <string name="msd_install_retry_windows_xp">"If the computer failed to detect your phone,
 Try the following:
 "1) Reconnect the USB cable."
 "2) Reinstall the driver." "</string>
   <string name="msd_install_retry_windows_vista">"If the computer failed to detect your phone,
-Try reconnecting the USB cable."</string>
+Try reconnecting the USB cable."
 Try the following:
 ""Do a search for
 Android File Transfer,
 and run the software.""
-"Reconnect the USB cable."
+"Reconnect the USB cable."</string>
   <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
 Try the following:
 ""Do a search for
@@ -3139,13 +3126,6 @@ Android File Transfer,
 and run the software.""
 "Reconnect the USB cable."
 "Reinstall the driver." "</string>
-Try the following:
-1) Use installation tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Create a directory \"mkdir\" /media/mtp
-3) Confirm user group permissions in the current fuse user group
-4) Sign in again
-5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
-6) Uninstall device fusermount -u /media/mtp
   <string name="msd_install_retry_linux">"If the computer failed to detect your phone,
 Try the following:
 1) Use installation tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
