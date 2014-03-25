@@ -2660,7 +2660,6 @@ Cualquier usuario puede aceptar permisos actualizados de app en nombre del resto
     <string name="perm_hips_location_source_network">Fuente: Red</string>
     <string name="perm_hips_location_source_cellular">Fuente: Red móvil</string>
     <string name="perm_hips_location_cell_location">obtenga localización del teléfono</string>
-    <string name="perm_hips_location_cellinfo">Obtener localización del teléfono</string>
     <string name="perm_hips_location_monitor">Seguir su posición</string>
     <string name="perm_hips_location_access">Obtener su posición actual</string>
     <string name="perm_hips_phoneid_iccid">Obtener SN de la SIM</string>
