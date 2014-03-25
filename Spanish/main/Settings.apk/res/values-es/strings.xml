@@ -3841,4 +3841,16 @@ Pulsa el botón de Añadir contactos para seleccionar los contactos que vincular
   <string name="quick_cleanup">Limpiar</string>
     <string name="button_text_security">Seguridad</string>
       <string name="app_name">Seguridad</string>
+  <string name="Agps_Work_Mode_Setting">Ajuste del modo de funcionamiento</string>
+    <string name="CA_Enable_Title">Certificado de Confirmación</string>
+<string name="CA_enable_summary_on">Habilite la validación de certificados TLS cuando se usa A-GPS</string>
+    <string name="CA_enable_summary_off">Deshabilitar la validación de certificados TLS cuando se usa A-GPS</string>
+        <string name="CP_EM_Settings">Configuración CP EM</string>
+    <string name="CP_EM_Settings_Summary">Ajustes de escaneado de dispositivo CP</string>
+        <string name="CUSTOM_POLICY_Cat_Title">Selección de una política en particular</string>
+<string name="CUSTOM_POLICY_Summary_on">Incluya una política especial</string>
+    <string name="CUSTOM_POLICY_Summary_off">Apague política especial</string>
+        <string name="CUSTOM_POLICY_Title">Política Especial</string>
+    <string name="CUSTOM_POLICY_Type_Summary">Tipo seleccionado de política especial</string>
+
 </resources>
