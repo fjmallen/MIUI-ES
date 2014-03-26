@@ -106,13 +106,13 @@
   </string-array>
   <string-array name="dream_timeout_entries">
     <item>Never</item>
-    <item>15 seconds</item>
-    <item>30 seconds</item>
-    <item>1 minute</item>
-    <item>2 minutes</item>
-    <item>5 minutes</item>
-    <item>10 minutes</item>
-    <item>30 minutes</item>
+    <item>15 segundos</item>
+    <item>30 segundos</item>
+    <item>1 minuto</item>
+    <item>2 minutos</item>
+    <item>5 minutos</item>
+    <item>10 minutos</item>
+    <item>30 minutos</item>
   </string-array>
   <string-array name="dream_timeout_values">
     <item>0</item>
