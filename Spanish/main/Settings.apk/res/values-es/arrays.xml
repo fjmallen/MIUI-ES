@@ -106,13 +106,13 @@
   </string-array>
   <string-array name="dream_timeout_entries">
     <item>Never</item>
-    <item>15 seconds</item>
-    <item>30 seconds</item>
-    <item>1 minute</item>
-    <item>2 minutes</item>
-    <item>5 minutes</item>
-    <item>10 minutes</item>
-    <item>30 minutes</item>
+    <item>15 segundos</item>
+    <item>30 segundos</item>
+    <item>1 minuto</item>
+    <item>2 minutos</item>
+    <item>5 minutos</item>
+    <item>10 minutos</item>
+    <item>30 minutos</item>
   </string-array>
   <string-array name="dream_timeout_values">
     <item>0</item>
@@ -129,7 +129,7 @@
     <item>5 segundos</item>
     <item>15 segundos</item>
     <item>30 segundos</item>
-    <item>1 minutos</item>
+    <item>1 minuto</item>
     <item>2 minutos</item>
     <item>5 minutos</item>
     <item>10 minutos</item>
@@ -722,10 +722,10 @@
     <item>-1</item>
   </string-array>
   <string-array name="font_size_title">
-    <item>@string/font_size_small</item>
-    <item>@string/font_size_normal</item>
-    <item>@string/font_size_medium</item>
-    <item>@string/font_size_large</item>
+    <item>@string/tamaño de letra pequeña</item>
+    <item>@string/tamaño de letra normal</item>
+    <item>@string/tamaño de letra mediana</item>
+    <item>@string/tamaño de letra grande</item>
   </string-array>
   <string-array name="dolby_mode_entries">
     <item>@string/dolby_mode_off</item>
