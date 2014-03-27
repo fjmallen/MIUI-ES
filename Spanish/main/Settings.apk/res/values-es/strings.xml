@@ -3852,4 +3852,14 @@ Pulsa el botón de Añadir contactos para seleccionar los contactos que vincular
     <string name="CUSTOM_POLICY_Summary_off">Apague política especial</string>
     <string name="CUSTOM_POLICY_Title">Política Especial</string>
     <string name="CUSTOM_POLICY_Type_Summary">Tipo seleccionado de política especial</string>
+    <string name="CUSTOM_POLICY_Type_Title">Escriba política especial</string>
+    <string name="wifi_setting_connect_type_error">Hubo un problema al configurar el tipo de conexión.</string>
+    <string name="wifi_security_cmcc">Seguridad</string>
+    <string name="wifi_network_netmask">Máscara de red</string>
+    <string name="vibrate_on_ring_title">Sonido y vibración</string>
+    <string name="supl_capability_list_title">Tipo de función SUPL</string>
+    <string name="supl_capability_list_summary">Tipo de carga seleccionado SUPL</string>
+    <string name="supl_capability_list_dialog_title">Tipo de función SUPL</string>
+    <string name="sim_pin_enabled">PIN activado</string>
+    <string name="sim_pin_disabled">PIN desactivado</string>
 </resources>
