@@ -386,13 +386,13 @@ Descargue la compilación del desarrollador de MIUI para permitir permisos de ro
   <string name="perm_hips_disable_content">"MIUI detendrá el seguimiento de las peticiones de aplicaciones y la seguridad de la aplicación de contenidos relacionados."</string>
   <string name="perm_su_enable_title">Permisos de root</string>
   <string name="perm_su_enable_summary">Permitir a las aplicaciones obtener permisos de root</string>
-<string name="perm_privacy_app_count">%1$d permisos</string>
+  <string name="perm_privacy_app_count">%1$d permisos</string>
   <string name="auto_start_summary">%1$d apps can start automatically</string>
   <string name="auto_start_title">Administración Auto-inicio</string>
   <string name="perm_app_enable">Monitorear las solicitudes de permisos</string>
   <string name="perm_app_header">Administrador de de permisos</string>
   <string name="perm_app_title">Administrar permisos App</string>
-  <string name="perm_log_empty"Registro log</string>
+  <string name="perm_log_empty">Registro log</string>
   <string name="perm_root_manage_empty">Sus aplicaciones no tienen permiso ROOT</string>
   <string name="perm_app_manage_empty">"You're not monitoring any apps"</string>
   <string name="perm_support_hints">Desarrollado por LBE</string>
