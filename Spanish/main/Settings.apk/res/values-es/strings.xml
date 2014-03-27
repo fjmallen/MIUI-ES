@@ -413,7 +413,7 @@ Descargue la compilación del desarrollador de MIUI para permitir permisos de ro
   <string name="power_battery_history_zero_minutes">0 Mins</string>
   <string name="power_autorun_empty">None of your apps can be added</string>
   <string name="power_autorun_apps_empty">No hay aplicaciones de inicio automático</string>
-  <string name="power_perm_logs_empty">Hay registros/string>
+  <string name="power_perm_logs_empty">Hay registros</string>
   <string name="process_manage_title">Cerrar %1$d procesos para liberar %2$s de memoría</string>
   <string name="process_list_empty_hints">No hay procesos en la memoria cache</string>
   <string name="protection_category_dangerous_title">Riesgos (%d)</string>
