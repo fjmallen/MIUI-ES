@@ -398,7 +398,7 @@ Descargue la compilación del desarrollador de MIUI para permitir permisos de ro
   <string name="perm_support_hints">Desarrollado por LBE</string>
   <string name="power_autorun_control_title">Auto-inicio</string>
   <string name="power_autorun_control_desc">"Aumentar los programas de inicio automático puede consumir mucha batería"</string>
-  <string name="power_usage_sort_title">Ver consumo de batería/string>
+  <string name="power_usage_sort_title">Ver consumo de batería</string>
   <string name="power_usage_sort_desc">Clasificar los programas por consumo de bateria</string>
   <string name="power_mode_select_title">Configuración de la batería</string>
   <string name="power_mode_select_desc">Elija una configuración de consumo que cumpla con sus necesidades</string>
