@@ -1190,7 +1190,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="bluetooth_disconnect_hid_profile">%1$s se desconectará del dispositivo de entrada.</string>
     <string name="bluetooth_disconnect_pan_user_profile">Se desconectará el acceso a Internet a través de %1$s.</string>
     <string name="bluetooth_disconnect_pan_nap_profile">%1$s se desconectará y no compartirá la conexión a Internet de este teléfono.</string>
-  <string name="bluetooth_device_advanced_title">Opciones de %1$s</string>
+  <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth sincronizado</string>
   <string name="bluetooth_device_advanced_online_mode_title">Conectar</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Conectar con dispositivo Bluetooth</string>
   <string name="bluetooth_device_advanced_profile_header_title">Perfiles</string>
