@@ -214,9 +214,9 @@
   <!--Original value: Picture quality-->
   <string name="pref_camera_jpegquality_title">Calidad de imágen</string>
   <!--Original value: Super fine-->
-  <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
+  <string name="pref_camera_jpegquality_entry_superfine">Super fina</string>
   <!--Original value: Fine-->
-  <string name="pref_camera_jpegquality_entry_fine">Fine</string>
+  <string name="pref_camera_jpegquality_entry_fine">Fina</string>
   <!--Original value: Standard-->
   <string name="pref_camera_jpegquality_entry_normal">Normal</string>
   <!--Original value: disable-->
@@ -587,7 +587,7 @@ Step out of view for a moment"-->
   <!--Original value: aac-->
   <string name="pref_camera_audioencoder_default">aac</string>
   <!--Original value: Audio capture-->
-  <string name="pref_camera_audio_capture_title">Capturar audio</string>
+  <string name="pref_camera_audio_capture_title">Capturar</string>
   <!--Original value: 10-->
   <string name="pref_camera_video_duration_default">"10"</string>
   <!--Original value: Video Duration-->
