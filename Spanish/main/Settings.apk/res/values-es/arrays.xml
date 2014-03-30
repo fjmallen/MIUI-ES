@@ -722,10 +722,10 @@
     <item>-1</item>
   </string-array>
   <string-array name="font_size_title">
-    <item>@string/tamaño de letra pequeña</item>
-    <item>@string/tamaño de letra normal</item>
-    <item>@string/tamaño de letra mediana</item>
-    <item>@string/tamaño de letra grande</item>
+        <item>@string/font_size_small</item>
+        <item>@string/font_size_normal</item>
+        <item>@string/font_size_medium</item>
+        <item>@string/font_size_large</item>
   </string-array>
   <string-array name="dolby_mode_entries">
     <item>@string/dolby_mode_off</item>
