@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="versionCode">3</string>
-  <string name="versionName">1.0.140225</string>
   <string name="auto_startup_application_manage">Inicio Automático</string>
   <string name="auto_startup_count">"%d aplicaciones se permiten en la actualidad que inicien automáticamente"</string>
   <string name="man_add_application">"Agregar aplicaciones de inicio automático"</string>
@@ -672,8 +670,8 @@ Descargue la compilación del desarrollador de MIUI para permitir permisos de ro
   <string name="comfirm_exit">Salir?</string>
   <string name="comfirm">Confirmar</string>
   <string name="cancel">Cancelar</string>
-  <string name="mem_lock">Cerrar/string>
-  <string name="mem_unlock">Abrir/string>
+  <string name="mem_lock">Cerrar</string>
+  <string name="mem_unlock">Abrir</string>
   <string name="last_check_date_today">"Ultimo escaneo: Hoy "</string>
   <string name="last_check_date_yesterday">"Ultimo escaneo: Ayer "</string>
   <string name="last_check_never_checked">Se recomienda escaneo (Por primera vez)</string>
